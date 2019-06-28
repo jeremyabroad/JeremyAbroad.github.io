@@ -1,0 +1,424 @@
+<!DOCTYPE html><html lang="en"><head><meta charSet="utf-8"/><meta http-equiv="x-ua-compatible" content="ie=edge"/><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/><style id="typography.js">html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}article,aside,details,figcaption,figure,footer,header,main,menu,nav,section,summary{display:block}audio,canvas,progress,video{display:inline-block}audio:not([controls]){display:none;height:0}progress{vertical-align:baseline}[hidden],template{display:none}a{background-color:transparent;-webkit-text-decoration-skip:objects}a:active,a:hover{outline-width:0}abbr[title]{border-bottom:none;text-decoration:underline;text-decoration:underline dotted}b,strong{font-weight:inherit;font-weight:bolder}dfn{font-style:italic}h1{font-size:2em;margin:.67em 0}mark{background-color:#ff0;color:#000}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sub{bottom:-.25em}sup{top:-.5em}img{border-style:none}svg:not(:root){overflow:hidden}code,kbd,pre,samp{font-family:monospace,monospace;font-size:1em}figure{margin:1em 40px}hr{box-sizing:content-box;height:0;overflow:visible}button,input,optgroup,select,textarea{font:inherit;margin:0}optgroup{font-weight:700}button,input{overflow:visible}button,select{text-transform:none}[type=reset],[type=submit],button,html [type=button]{-webkit-appearance:button}[type=button]::-moz-focus-inner,[type=reset]::-moz-focus-inner,[type=submit]::-moz-focus-inner,button::-moz-focus-inner{border-style:none;padding:0}[type=button]:-moz-focusring,[type=reset]:-moz-focusring,[type=submit]:-moz-focusring,button:-moz-focusring{outline:1px dotted ButtonText}fieldset{border:1px solid silver;margin:0 2px;padding:.35em .625em .75em}legend{box-sizing:border-box;color:inherit;display:table;max-width:100%;padding:0;white-space:normal}textarea{overflow:auto}[type=checkbox],[type=radio]{box-sizing:border-box;padding:0}[type=number]::-webkit-inner-spin-button,[type=number]::-webkit-outer-spin-button{height:auto}[type=search]{-webkit-appearance:textfield;outline-offset:-2px}[type=search]::-webkit-search-cancel-button,[type=search]::-webkit-search-decoration{-webkit-appearance:none}::-webkit-input-placeholder{color:inherit;opacity:.54}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}html{font:100%/1.75 'Merriweather','Georgia',serif;box-sizing:border-box;overflow-y:scroll;}*{box-sizing:inherit;}*:before{box-sizing:inherit;}*:after{box-sizing:inherit;}body{color:hsla(0,0%,0%,0.9);font-family:'Merriweather','Georgia',serif;font-weight:400;word-wrap:break-word;font-kerning:normal;-moz-font-feature-settings:"kern", "liga", "clig", "calt";-ms-font-feature-settings:"kern", "liga", "clig", "calt";-webkit-font-feature-settings:"kern", "liga", "clig", "calt";font-feature-settings:"kern", "liga", "clig", "calt";}img{max-width:100%;margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.75rem;}h1{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.75rem;color:inherit;font-family:Montserrat,sans-serif;font-weight:900;text-rendering:optimizeLegibility;font-size:2.5rem;line-height:1.1;}h2{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.75rem;color:inherit;font-family:'Merriweather','Georgia',serif;font-weight:900;text-rendering:optimizeLegibility;font-size:1.73286rem;line-height:1.1;}h3{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.75rem;color:inherit;font-family:'Merriweather','Georgia',serif;font-weight:900;text-rendering:optimizeLegibility;font-size:1.4427rem;line-height:1.1;}h4{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.75rem;color:inherit;font-family:'Merriweather','Georgia',serif;font-weight:900;text-rendering:optimizeLegibility;font-size:1rem;line-height:1.1;letter-spacing:0.140625em;text-transform:uppercase;}h5{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.75rem;color:inherit;font-family:'Merriweather','Georgia',serif;font-weight:900;text-rendering:optimizeLegibility;font-size:0.83255rem;line-height:1.1;}h6{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.75rem;color:inherit;font-family:'Merriweather','Georgia',serif;font-weight:900;text-rendering:optimizeLegibility;font-size:0.75966rem;line-height:1.1;font-style:italic;}hgroup{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.75rem;}ul{margin-left:1.75rem;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.75rem;list-style-position:outside;list-style-image:none;list-style:disc;}ol{margin-left:1.75rem;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.75rem;list-style-position:outside;list-style-image:none;}dl{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.75rem;}dd{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.75rem;}p{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.75rem;}figure{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.75rem;}pre{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.75rem;font-size:0.85rem;line-height:1.75rem;}table{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.75rem;font-size:1rem;line-height:1.75rem;border-collapse:collapse;width:100%;}fieldset{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.75rem;}blockquote{margin-left:-1.75rem;margin-right:1.75rem;margin-top:0;padding-bottom:0;padding-left:1.42188rem;padding-right:0;padding-top:0;margin-bottom:1.75rem;font-size:1.20112rem;line-height:1.75rem;color:hsla(0,0%,0%,0.59);font-style:italic;border-left:0.32813rem solid hsla(0,0%,0%,0.9);}form{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.75rem;}noscript{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.75rem;}iframe{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.75rem;}hr{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:calc(1.75rem - 1px);background:hsla(0,0%,0%,0.2);border:none;height:1px;}address{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.75rem;}b{font-weight:700;}strong{font-weight:700;}dt{font-weight:700;}th{font-weight:700;}li{margin-bottom:calc(1.75rem / 2);}ol li{padding-left:0;}ul li{padding-left:0;}li > ol{margin-left:1.75rem;margin-bottom:calc(1.75rem / 2);margin-top:calc(1.75rem / 2);}li > ul{margin-left:1.75rem;margin-bottom:calc(1.75rem / 2);margin-top:calc(1.75rem / 2);}blockquote *:last-child{margin-bottom:0;}li *:last-child{margin-bottom:0;}p *:last-child{margin-bottom:0;}li > p{margin-bottom:calc(1.75rem / 2);}code{font-size:0.85rem;line-height:1.75rem;}kbd{font-size:0.85rem;line-height:1.75rem;}samp{font-size:0.85rem;line-height:1.75rem;}abbr{border-bottom:1px dotted hsla(0,0%,0%,0.5);cursor:help;}acronym{border-bottom:1px dotted hsla(0,0%,0%,0.5);cursor:help;}abbr[title]{border-bottom:1px dotted hsla(0,0%,0%,0.5);cursor:help;text-decoration:none;}thead{text-align:left;}td,th{text-align:left;border-bottom:1px solid hsla(0,0%,0%,0.12);font-feature-settings:"tnum";-moz-font-feature-settings:"tnum";-ms-font-feature-settings:"tnum";-webkit-font-feature-settings:"tnum";padding-left:1.16667rem;padding-right:1.16667rem;padding-top:0.875rem;padding-bottom:calc(0.875rem - 1px);}th:first-child,td:first-child{padding-left:0;}th:last-child,td:last-child{padding-right:0;}blockquote > :last-child{margin-bottom:0;}blockquote cite{font-size:1rem;line-height:1.75rem;color:hsla(0,0%,0%,0.9);font-weight:400;}blockquote cite:before{content:"— ";}ul,ol{margin-left:0;}@media only screen and (max-width:480px){ul,ol{margin-left:1.75rem;}blockquote{margin-left:-1.3125rem;margin-right:0;padding-left:0.98438rem;}}h1,h2,h3,h4,h5,h6{margin-top:3.5rem;}a{box-shadow:0 1px 0 0 currentColor;color:#007acc;text-decoration:none;}a:hover,a:active{box-shadow:none;}mark,ins{background:#007acc;color:white;padding:0.10938rem 0.21875rem;text-decoration:none;}a.gatsby-resp-image-link{box-shadow:none;}</style><link rel="apple-touch-icon" sizes="384x384" href="/icons/icon-384x384.png?v=008654519ce705ac7bc44303a9014606"/><link rel="preconnect dns-prefetch" href="https://www.google-analytics.com"/><link rel="alternate" type="application/rss+xml" href="/rss.xml"/><link rel="shortcut icon" href="/icons/icon-48x48.png?v=008654519ce705ac7bc44303a9014606"/><link rel="manifest" href="/manifest.webmanifest"/><meta name="theme-color" content="#663399"/><link rel="apple-touch-icon" sizes="48x48" href="/icons/icon-48x48.png?v=008654519ce705ac7bc44303a9014606"/><link rel="apple-touch-icon" sizes="72x72" href="/icons/icon-72x72.png?v=008654519ce705ac7bc44303a9014606"/><link rel="apple-touch-icon" sizes="96x96" href="/icons/icon-96x96.png?v=008654519ce705ac7bc44303a9014606"/><link rel="apple-touch-icon" sizes="144x144" href="/icons/icon-144x144.png?v=008654519ce705ac7bc44303a9014606"/><link rel="apple-touch-icon" sizes="192x192" href="/icons/icon-192x192.png?v=008654519ce705ac7bc44303a9014606"/><link rel="apple-touch-icon" sizes="256x256" href="/icons/icon-256x256.png?v=008654519ce705ac7bc44303a9014606"/><meta name="generator" content="Gatsby 2.11.0"/><link rel="apple-touch-icon" sizes="512x512" href="/icons/icon-512x512.png?v=008654519ce705ac7bc44303a9014606"/><title data-react-helmet="true">Mexico City Impressions | Jeremy Abroad</title><meta data-react-helmet="true" name="description" content="Mexico City was the first stop on my world tour, and these are my impressions after 1 week.I’ll be completely honest - I originally had no…"/><style data-href="/styles.bddaef654c66ded1434d.css">@font-face{font-family:Montserrat;font-style:normal;font-display:swap;font-weight:100;src:local("Montserrat Thin "),local("Montserrat-Thin"),url(/static/montserrat-latin-100-50d279861fb3cbfed809eae6ed8b9ac9.woff2) format("woff2"),url(/static/montserrat-latin-100-5e334eff013f12fbb8ed72c2a253f119.woff) format("woff")}@font-face{font-family:Montserrat;font-style:italic;font-display:swap;font-weight:100;src:local("Montserrat Thin italic"),local("Montserrat-Thinitalic"),url(/static/montserrat-latin-100italic-8c0705336558194799a8729840d7ed9d.woff2) format("woff2"),url(/static/montserrat-latin-100italic-03e19243272affe738654a157625ec26.woff) format("woff")}@font-face{font-family:Montserrat;font-style:normal;font-display:swap;font-weight:200;src:local("Montserrat Extra Light "),local("Montserrat-Extra Light"),url(/static/montserrat-latin-200-4343d3d91a9446226e7a8bbb024111ad.woff2) format("woff2"),url(/static/montserrat-latin-200-f2022ecd65a0703ec3edcb7641709a75.woff) format("woff")}@font-face{font-family:Montserrat;font-style:italic;font-display:swap;font-weight:200;src:local("Montserrat Extra Light italic"),local("Montserrat-Extra Lightitalic"),url(/static/montserrat-latin-200italic-116c4c4b14ef76b0555da09854512022.woff2) format("woff2"),url(/static/montserrat-latin-200italic-89614a6008fc5c60739012463d0ee7e6.woff) format("woff")}@font-face{font-family:Montserrat;font-style:normal;font-display:swap;font-weight:300;src:local("Montserrat Light "),local("Montserrat-Light"),url(/static/montserrat-latin-300-d2ad295b60682a6537c358e06ea80c61.woff2) format("woff2"),url(/static/montserrat-latin-300-3a371ee0d175f5c2b15ce1d6b981dc4e.woff) format("woff")}@font-face{font-family:Montserrat;font-style:italic;font-display:swap;font-weight:300;src:local("Montserrat Light italic"),local("Montserrat-Lightitalic"),url(/static/montserrat-latin-300italic-f6b6bf2431003f8142e800f9df157989.woff2) format("woff2"),url(/static/montserrat-latin-300italic-16521668f5f238098329cdd7d27c391e.woff) format("woff")}@font-face{font-family:Montserrat;font-style:normal;font-display:swap;font-weight:400;src:local("Montserrat Regular "),local("Montserrat-Regular"),url(/static/montserrat-latin-400-240a84447b78da0920fcb07e378f2c5f.woff2) format("woff2"),url(/static/montserrat-latin-400-b20cc131034316b1c85d0498fb9ed5c5.woff) format("woff")}@font-face{font-family:Montserrat;font-style:italic;font-display:swap;font-weight:400;src:local("Montserrat Regular italic"),local("Montserrat-Regularitalic"),url(/static/montserrat-latin-400italic-86172bb829de6be08b92512096b6aca6.woff2) format("woff2"),url(/static/montserrat-latin-400italic-9405e78785a55cf0e4ea7669d4616ea9.woff) format("woff")}@font-face{font-family:Montserrat;font-style:normal;font-display:swap;font-weight:500;src:local("Montserrat Medium "),local("Montserrat-Medium"),url(/static/montserrat-latin-500-fb8d6b71dbe8d9294be43082936f649e.woff2) format("woff2"),url(/static/montserrat-latin-500-50825d47af7ae47e055018eb689c6c99.woff) format("woff")}@font-face{font-family:Montserrat;font-style:italic;font-display:swap;font-weight:500;src:local("Montserrat Medium italic"),local("Montserrat-Mediumitalic"),url(/static/montserrat-latin-500italic-c0a555a4f8e997385a3eebbd4da0b9ee.woff2) format("woff2"),url(/static/montserrat-latin-500italic-635de59c4be86285b1f70068c95b9816.woff) format("woff")}@font-face{font-family:Montserrat;font-style:normal;font-display:swap;font-weight:600;src:local("Montserrat SemiBold "),local("Montserrat-SemiBold"),url(/static/montserrat-latin-600-d5615136a08cfee70deb4be1ee1651df.woff2) format("woff2"),url(/static/montserrat-latin-600-f300da4fb4fe00e23915f62b2c643681.woff) format("woff")}@font-face{font-family:Montserrat;font-style:italic;font-display:swap;font-weight:600;src:local("Montserrat SemiBold italic"),local("Montserrat-SemiBolditalic"),url(/static/montserrat-latin-600italic-10f29d139edacde92df63374c5672568.woff2) format("woff2"),url(/static/montserrat-latin-600italic-2bc37d86a4ba12ce526c4af904a9946e.woff) format("woff")}@font-face{font-family:Montserrat;font-style:normal;font-display:swap;font-weight:700;src:local("Montserrat Bold "),local("Montserrat-Bold"),url(/static/montserrat-latin-700-7d77e1f03eefc452dab14d7f89080083.woff2) format("woff2"),url(/static/montserrat-latin-700-81826529772e52f0f14a4c73c2f2c7f1.woff) format("woff")}@font-face{font-family:Montserrat;font-style:italic;font-display:swap;font-weight:700;src:local("Montserrat Bold italic"),local("Montserrat-Bolditalic"),url(/static/montserrat-latin-700italic-1dd2b53f1567a29e0505de9b27c4352c.woff2) format("woff2"),url(/static/montserrat-latin-700italic-c162d257f5e9f9b108a96a604cfb2132.woff) format("woff")}@font-face{font-family:Montserrat;font-style:normal;font-display:swap;font-weight:800;src:local("Montserrat ExtraBold "),local("Montserrat-ExtraBold"),url(/static/montserrat-latin-800-d4e7bf86bbd8e5f43ca73fa831218648.woff2) format("woff2"),url(/static/montserrat-latin-800-895aadbff357be35ac8dd107c7975ee7.woff) format("woff")}@font-face{font-family:Montserrat;font-style:italic;font-display:swap;font-weight:800;src:local("Montserrat ExtraBold italic"),local("Montserrat-ExtraBolditalic"),url(/static/montserrat-latin-800italic-fc0cbe442f7b3733c91e982e825c4daa.woff2) format("woff2"),url(/static/montserrat-latin-800italic-b3362875067300abedb7a8fb97903258.woff) format("woff")}@font-face{font-family:Montserrat;font-style:normal;font-display:swap;font-weight:900;src:local("Montserrat Black "),local("Montserrat-Black"),url(/static/montserrat-latin-900-c8bdd772c0d1347720ff7e3fb72719f3.woff2) format("woff2"),url(/static/montserrat-latin-900-1b99ef78e627dd9bbd0ca4b5c0789547.woff) format("woff")}@font-face{font-family:Montserrat;font-style:italic;font-display:swap;font-weight:900;src:local("Montserrat Black italic"),local("Montserrat-Blackitalic"),url(/static/montserrat-latin-900italic-cb72c1f90f66c124fb897a75bec64c78.woff2) format("woff2"),url(/static/montserrat-latin-900italic-b78bb9f8ecec6c5a924c873f1818095f.woff) format("woff")}@font-face{font-family:Merriweather;font-style:normal;font-display:swap;font-weight:300;src:local("Merriweather Light "),local("Merriweather-Light"),url(/static/merriweather-latin-300-f015f1e9a46a3b9db4fd64564dacece4.woff2) format("woff2"),url(/static/merriweather-latin-300-92dfe81b725c342d31d962da975c07a6.woff) format("woff")}@font-face{font-family:Merriweather;font-style:italic;font-display:swap;font-weight:300;src:local("Merriweather Light italic"),local("Merriweather-Lightitalic"),url(/static/merriweather-latin-300italic-7fd86b32accf2df4403d1d4fa3a81502.woff2) format("woff2"),url(/static/merriweather-latin-300italic-878b76f59d5ba58dd1652dc8d2a0f4f9.woff) format("woff")}@font-face{font-family:Merriweather;font-style:normal;font-display:swap;font-weight:400;src:local("Merriweather Regular "),local("Merriweather-Regular"),url(/static/merriweather-latin-400-12dbf4c00ae43698f278b099e4b0ec9e.woff2) format("woff2"),url(/static/merriweather-latin-400-1fffad22b085a877995812dbf1d9ac08.woff) format("woff")}@font-face{font-family:Merriweather;font-style:italic;font-display:swap;font-weight:400;src:local("Merriweather Regular italic"),local("Merriweather-Regularitalic"),url(/static/merriweather-latin-400italic-1e0d3e8121d88969bfb153c8f174b758.woff2) format("woff2"),url(/static/merriweather-latin-400italic-de18d4c4e8e808a7248a185f866ff094.woff) format("woff")}@font-face{font-family:Merriweather;font-style:normal;font-display:swap;font-weight:700;src:local("Merriweather Bold "),local("Merriweather-Bold"),url(/static/merriweather-latin-700-dc8fec81a125fc63856587e6683da73b.woff2) format("woff2"),url(/static/merriweather-latin-700-d7d2ed8e58f303392cc3fc00ba3a9186.woff) format("woff")}@font-face{font-family:Merriweather;font-style:italic;font-display:swap;font-weight:700;src:local("Merriweather Bold italic"),local("Merriweather-Bolditalic"),url(/static/merriweather-latin-700italic-b7b7e5da4d7be8c12bd5a6c809edc8fc.woff2) format("woff2"),url(/static/merriweather-latin-700italic-6210a5fc1c54ca85a5d82aa85d7a9b5c.woff) format("woff")}@font-face{font-family:Merriweather;font-style:normal;font-display:swap;font-weight:900;src:local("Merriweather Black "),local("Merriweather-Black"),url(/static/merriweather-latin-900-43f870d543dd89fbeb66d417c0d97276.woff2) format("woff2"),url(/static/merriweather-latin-900-8f3806df74937c7b8b53f24ae1e725d1.woff) format("woff")}@font-face{font-family:Merriweather;font-style:italic;font-display:swap;font-weight:900;src:local("Merriweather Black italic"),local("Merriweather-Blackitalic"),url(/static/merriweather-latin-900italic-168c1ab28ed0e4e7d654334def288bc1.woff2) format("woff2"),url(/static/merriweather-latin-900italic-ae7778f01871e35ee142ef207b313b34.woff) format("woff")}</style><style data-styled="fIVJqS" data-styled-version="4.3.2">
+/* sc-component-id: Bio__Container-sc-1xze3le-0 */
+.fIVJqS{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;marginBottom:rhythm(2.5);} .fIVJqS .icon{width:33px;vertical-align:middle;-webkit-transition:all .5s ease-out;transition:all .5s ease-out;} .fIVJqS .twitter > svg:hover{fill:#00aced;} .fIVJqS .youtube > svg:hover{fill:#FF0000;} .fIVJqS .instagram > svg:hover{fill:#e4405f;} .fIVJqS .icon-link{box-shadow:none;}</style><link as="script" rel="preload" href="/component---src-templates-blog-post-js-7b033f9f76ccedcfe84c.js"/><link as="script" rel="preload" href="/app-ca04ae849eda53a0b376.js"/><link as="script" rel="preload" href="/9-e67ed6864864ee80e83c.js"/><link as="script" rel="preload" href="/1-90cf75ba8317855b62e0.js"/><link as="script" rel="preload" href="/styles-3373a71a4ae6084294fe.js"/><link as="script" rel="preload" href="/webpack-runtime-bbb58466773fc6c445a6.js"/><link as="fetch" rel="preload" href="/page-data/mexico-city/page-data.json" crossorigin="use-credentials"/></head><body><noscript id="gatsby-noscript">This app works best with JavaScript enabled.</noscript><div id="___gatsby"><div style="outline:none" tabindex="-1" role="group"><div style="margin-left:auto;margin-right:auto;max-width:42rem;padding:2.625rem 1.3125rem"><h3 style="font-family:Montserrat, sans-serif;margin-top:0;margin-bottom:-1.75rem"><a style="box-shadow:none;text-decoration:none;color:inherit" href="/">Jeremy Abroad</a></h3><h1>Mexico City Impressions</h1><p style="font-size:0.83255rem;line-height:1.75rem;display:block;margin-bottom:1.75rem;margin-top:-1.75rem">February 15, 2018</p><div><p>Mexico City was the first stop on my world tour, and these are my impressions after 1 week.</p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;"
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/static/1eb1792cd0e97dda146ac6f8aec1d391/21d4e/20180130_170402.jpg"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url('data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQDBQb/xAAVAQEBAAAAAAAAAAAAAAAAAAABAP/aAAwDAQACEAMQAAABmdy9yTgoD//EABsQAAEEAwAAAAAAAAAAAAAAAAABAgQTIzJC/9oACAEBAAEFAnys1xadM0RT/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQIBAT8BZ//EABoQAAEFAQAAAAAAAAAAAAAAAAIAARAhMXL/2gAIAQEABj8Ca6HVkjzH/8QAGxABAAICAwAAAAAAAAAAAAAAAQARIVFBcZH/2gAIAQEAAT8hDCy4O46xZ4i2+2LwRKJ//9oADAMBAAIAAwAAABCPL//EABcRAAMBAAAAAAAAAAAAAAAAAAABESH/2gAIAQMBAT8QWkR//8QAFxEBAAMAAAAAAAAAAAAAAAAAAAERIf/aAAgBAgEBPxDC5f/EAB0QAQEAAgEFAAAAAAAAAAAAAAERADEhUXGRscH/2gAIAQEAAT8QE0KHS+zFZCJRuzF1l7Yw1ebeXG53XoMWymuhn//Z'); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;"
+        alt="2 for $1"
+        title=""
+        src="/static/1eb1792cd0e97dda146ac6f8aec1d391/c739e/20180130_170402.jpg"
+        srcset="/static/1eb1792cd0e97dda146ac6f8aec1d391/8ee9c/20180130_170402.jpg 148w,
+/static/1eb1792cd0e97dda146ac6f8aec1d391/ebbe7/20180130_170402.jpg 295w,
+/static/1eb1792cd0e97dda146ac6f8aec1d391/c739e/20180130_170402.jpg 590w,
+/static/1eb1792cd0e97dda146ac6f8aec1d391/5413e/20180130_170402.jpg 885w,
+/static/1eb1792cd0e97dda146ac6f8aec1d391/4efde/20180130_170402.jpg 1180w,
+/static/1eb1792cd0e97dda146ac6f8aec1d391/21d4e/20180130_170402.jpg 5312w"
+        sizes="(max-width: 590px) 100vw, 590px"
+      />
+  </a>
+    </span></p>
+<p>I’ll be completely honest - I originally had no interest in going to Mexico City, and only went because the flight was so cheap ($117 one-way from Baltimore), it was on my way to South America, and it was recommended to me by some friends. I was told by many people that the city was extremely dangerous and that I should probably avoid it.</p>
+<p>But I’m so glad I went, and now want to see the rest of Mexico (Yucatan, Chiapas, Oaxaca, Guadalajara, etc). I had no idea that Mexico was so rich in culture.</p>
+<h2>I never felt unsafe in Mexico City</h2>
+<p>So many people told me that Mexico City is very dangerous, that you can’t wander around without knowing where you’re going, that if you venture one street off the main path you’ll be in danger. This is completely false. I never felt unsafe in Mexico City, even walking around alone past midnight. As long as you don’t venture into bad areas (I hear they’re in the north?) and are street smart, you’ll be fine (more on safety below).</p>
+<h2>Street Vendors</h2>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;"
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/static/539e75bf93f95c0fb7f316ebfb2b3247/f2f82/street_hawkers1.png"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 56.241872561768524%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAABYlAAAWJQFJUiTwAAADC0lEQVQozw2S20+aBxjG+UOW7Ga7XrLOpTPpOlNrrIoixQoilFMBQRDh4/jJUeUgVjxiF62NFDbdcJ1WG6mFbquzrk3aJbvd1baWdG67aq9/+y7ePFfv8z75vY/s1avXvHv7lnq9jsFmxRcJYnaa0JiV+MIWxJyL/HKEl0f73J3ysVte5az5J439KpW1Il+tLZGOCnQp5XhGbyBrNpv88/cZPx8/IRgJ0a/X0qPpZ1CvxDlmJB71UMiJbKTDFD2jHEQD/NZ4QGUlz1QkQDopsl1aZToVZcSsQfbvf2f89foPjo6OCIsiWqOBS71X+ELegUqjQBRcTPjdZJNe8jEPJSnl6Z0lDhdnyGdF/KKDF89P+KHxiGTYg2wuN0c+FWZhdZ58bhab3Y7g9+JyOxhz2rFKV0NuM3HBSjRkZCZg4WQqRCOTIZ50MhIc5HYpTSGTwmbSIdPYHWgGlUSSQU6fPqZ+WOP+d1X29nbIRCIU7EY23DaqPhcx6xCZUQvPMnFOM9PMxb0YnEpc3m5cOgUmZbdkGBJITCdYuZmhuJCj9n2V6t11KneKrE5Nsj/u5aEQoCH4cEh8/TdM/DgRYNPtQ3SO06vSEhQkvrMFYrEoMs9EjFvVA5Y3SsTFNLfELD9Vd6msb7JVKZNfWkRnsGAc0NDZc5XreiexsSjjqSyOUILyt3ssl76ha8jE+59+jkyrGkartiEoTPjVDsQWHYvWPEL+Noub98hEC3RekNPS0sa51nY+apVzvl1DPH1TqtoTfm++YX1rhyuSYbfWhKztYicLgRTrI0mWzSJb10Tq9nlOwxu8mbzHu7XHvIiX+Do2zyfn26Tp4OPPOhju03KwfZ/d46fs1Oo0nr/k8PgEWe81PSqjBblOj8MnfTcoMCwVfNhgZ3u7yq/PfuHhwSGPajXauxW0XrjMpct9DOjNfFkuozbZGY8mEWJx3vvgQ2QuX5DrVhdd/UO096npUGjoGdCjNjtxSoymCyukZhYIp3IIiQzBRFZaljQ1y+RckbGJNPZQEpXZxcW+If4HbuQnDVqb1scAAAAASUVORK5CYII='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;"
+        alt="Street vendors for vehicles"
+        title=""
+        src="/static/539e75bf93f95c0fb7f316ebfb2b3247/b9e4f/street_hawkers1.png"
+        srcset="/static/539e75bf93f95c0fb7f316ebfb2b3247/cf440/street_hawkers1.png 148w,
+/static/539e75bf93f95c0fb7f316ebfb2b3247/d2d38/street_hawkers1.png 295w,
+/static/539e75bf93f95c0fb7f316ebfb2b3247/b9e4f/street_hawkers1.png 590w,
+/static/539e75bf93f95c0fb7f316ebfb2b3247/f9b6a/street_hawkers1.png 885w,
+/static/539e75bf93f95c0fb7f316ebfb2b3247/2d849/street_hawkers1.png 1180w,
+/static/539e75bf93f95c0fb7f316ebfb2b3247/f2f82/street_hawkers1.png 3076w"
+        sizes="(max-width: 590px) 100vw, 590px"
+      />
+  </a>
+    </span></p>
+<p>The first thing that stood out to me about Mexico City is all the street hawkers/vendors, and this seems to be a common thing in most of central and South America. On my Uber ride from the airport to the hostel there were people at traffic intersections selling food and beverages to vehicles (something I’ve never seen in the U.S.) and offering to wash windows. On the streets and in the subway you’ve got people selling everything, and tons of shoe shiners. There are massive street markets that sell everything, and street food everywhere selling tacos and other things. Out of all the places I’ve been to so far, Mexico City has the most street food I’ve seen.</p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;"
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/static/6796d5126163204408643674822c6f38/57159/market1.png"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 56.315104166666664%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAABYlAAAWJQFJUiTwAAADKElEQVQozw3SX0xTBxiG8bMtWR1QFUfalTLlX8FCe+D02JbSIqwFC5S2IB3Y0VCG1mEao3YblRmiI46NtIkosMU0YSbq5mLmdjGtytSL3Yxmupk5cQ6iSxaTLcbE7WaJLM/Oxe/iu3mSN/mEpedfZHFtIVfU68mqdfyoMfKDWs/jdVpWBYFnivOKj6xWHj64RebC55QYzJgsMh5/NydTJzgx8zGHRt4kG9uOsPyCipzwEjcENVeFPBYLtVxWKbdGz+1iAyvrNnJNpeE9Yz2xWJTQUISKKjN1opnJif2MHnybvmiEkd0DLCR3Ivza2cYDXyd/DQ5xJx7nbuYTfr9+lb9/+5mnSzd5cu8Oq4/+4P7i9/R1dWIzGGgRJVJzc6TSRwkPhvB43WTmUlz+8izCLwfi/JT+gH9ZVcB//zxl+fpN7i7k+PPWPVYeLnDts3mWczc419RDskamrdXNxW8XGE3sw15Vys7XXLhDUfrrGhEezx7n0el5vlHCJ3tDZBJ7yZ6aZsLXxRF7M2emdzEeeh2/w8lYUQXvqzfSq92Eq1rkUCRIwCkhiRY6uoLMF5oRbg8PspKa5FK3n9liDSM2K1/F+jhvl3E8JxCQLXTLNgKOLfTZTMSEAt5RtDfIJKM9BJpcNHd24Q0ESa15FSE7dphsbzefmk0M1zlpd3g4WFNLUleMVpVH48sagjWbSb87xECDhYiujEiRDqvJRJO1nnxVAR5Jxm1tRK6sQzg37CejTAuUWnCLzbQ2eGk2Svh0ejasyUPWatkb8jKVGCDaJBPeLDLsaqXdItHRokREE/6SMnwmK5pyEeF+UM+z/E2kC/V4isvYvrWHrQ1t1Gq0VCvvs1tfSWIwQGJgGztcIqPbPJyeSnN2ZoZ4X5gtFQaMRUVUGkzUmySEJzonF0sk2orKWF/uwt7cjyS5qFIXIL+i5Q2bxIEdPuI9rfQ66hkT67i0fx9n0pOMj8Q4suctkoNhRLNMeWk1QiJ/A8JahRK1a1xMVwSZ09tx6rR01BoZaHGyJ+hlV4ebUJOdbkM1X4f7yV34gqXcd1yZm+LUxDizx45z+OiH/A9E/clBUAq44wAAAABJRU5ErkJggg=='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;"
+        alt="market"
+        title=""
+        src="/static/6796d5126163204408643674822c6f38/b9e4f/market1.png"
+        srcset="/static/6796d5126163204408643674822c6f38/cf440/market1.png 148w,
+/static/6796d5126163204408643674822c6f38/d2d38/market1.png 295w,
+/static/6796d5126163204408643674822c6f38/b9e4f/market1.png 590w,
+/static/6796d5126163204408643674822c6f38/f9b6a/market1.png 885w,
+/static/6796d5126163204408643674822c6f38/2d849/market1.png 1180w,
+/static/6796d5126163204408643674822c6f38/57159/market1.png 3072w"
+        sizes="(max-width: 590px) 100vw, 590px"
+      />
+  </a>
+    </span></p>
+<p>Upon first seeing this, the first thought that sprang to my mind was - capitalism, where if you don’t have any money, then you must convince somebody to buy something they don’t need. But I came to really appreciate and respect the street hustlers and the entrepreneurial nature of it all, preferring to purchase through them than through stores. You can buy pretty much everything you need off the street for a fraction of the price that you’d be paying in a store, and your money goes directly to the people rather than to the handful of wealthy business owners and landlords (I’m not going to pretend I know the intricacies of it, this is just what I like to believe).</p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;"
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/static/c1b1829608fd75be8157682beadfec7b/21d4e/20180126_174833.jpg"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url('data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMBAgT/xAAVAQEBAAAAAAAAAAAAAAAAAAABAP/aAAwDAQACEAMQAAABzuq8VEhf/8QAHBAAAgEFAQAAAAAAAAAAAAAAAQIDABEhIiMx/9oACAEBAAEFAlncVkllsYju57n3/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGRAAAgMBAAAAAAAAAAAAAAAAAAEQESFh/9oACAEBAAY/Aq1iyK6UM//EABsQAQACAwEBAAAAAAAAAAAAAAEAESExQVFh/9oACAEBAAE/IcMQOblUyGJQc8icqw1EGHA6mBfZ/9oADAMBAAIAAwAAABBAL//EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAEDAQE/ECf/xAAWEQEBAQAAAAAAAAAAAAAAAAABEBH/2gAIAQIBAT8QXZ//xAAdEAEAAgICAwAAAAAAAAAAAAABABEhQTFRYXGR/9oACAEBAAE/EF+1LE9bhbHCglVpgCrAPKMaESCnFsWQVDSsRI2AYfZ//9k='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;"
+        alt="Capitalism is a beautiful thing"
+        title=""
+        src="/static/c1b1829608fd75be8157682beadfec7b/c739e/20180126_174833.jpg"
+        srcset="/static/c1b1829608fd75be8157682beadfec7b/8ee9c/20180126_174833.jpg 148w,
+/static/c1b1829608fd75be8157682beadfec7b/ebbe7/20180126_174833.jpg 295w,
+/static/c1b1829608fd75be8157682beadfec7b/c739e/20180126_174833.jpg 590w,
+/static/c1b1829608fd75be8157682beadfec7b/5413e/20180126_174833.jpg 885w,
+/static/c1b1829608fd75be8157682beadfec7b/4efde/20180126_174833.jpg 1180w,
+/static/c1b1829608fd75be8157682beadfec7b/21d4e/20180126_174833.jpg 5312w"
+        sizes="(max-width: 590px) 100vw, 590px"
+      />
+  </a>
+    </span></p>
+<div style="text-align:center;">
+  <p style="font-size:14px;font-style:italic;">Capitalism is a beautiful thing</p>
+</div>
+<p>My funniest memory of Mexico City was sitting on a subway train when a lady comes in to sell markers for 5 pesos. She makes her pitch, explaining how great the markers are and how much of a good value they are. I’m laughing to myself thinking that this is absurd - why the hell would anybody on this subway train want to buy a marker right now? There’s no way she’s making any sales here. Then to my complete shock somebody pulls out some cash and buys some.</p>
+<h2>Food</h2>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;"
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/static/5c6063ddd1d936f8231239ff68bc5c87/21d4e/20180130_132410.jpg"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url('data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/9oADAMBAAIQAxAAAAFTpdCbmLhn/8QAGhAAAgIDAAAAAAAAAAAAAAAAAgMBEQQyQ//aAAgBAQABBQINhbJiKmUsIrhizaf/xAAXEQEAAwAAAAAAAAAAAAAAAAAAARES/9oACAEDAQE/Abhl/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAR/9oACAECAQE/AUbb/8QAGhAAAgMBAQAAAAAAAAAAAAAAAAECESEQMf/aAAgBAQAGPwK37Q4y3smaf//EABsQAQEBAQEAAwAAAAAAAAAAAAERACExUaGx/9oACAEBAAE/Iagqek+blQj81yd77fc25944AKDHMCq13//aAAwDAQACAAMAAAAQn9//xAAXEQEBAQEAAAAAAAAAAAAAAAABACEx/9oACAEDAQE/EDkk6v/EABcRAQEBAQAAAAAAAAAAAAAAAAEAETH/2gAIAQIBAT8QRxh5f//EAB0QAQADAAEFAAAAAAAAAAAAAAEAESExYXGBkcH/2gAIAQEAAT8QYP7YtRYfUYerV8PVUGAAKsO6FU7t0R9hNoYAp5Y3Dkmf/9k='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;"
+        alt="2 for $1"
+        title=""
+        src="/static/5c6063ddd1d936f8231239ff68bc5c87/c739e/20180130_132410.jpg"
+        srcset="/static/5c6063ddd1d936f8231239ff68bc5c87/8ee9c/20180130_132410.jpg 148w,
+/static/5c6063ddd1d936f8231239ff68bc5c87/ebbe7/20180130_132410.jpg 295w,
+/static/5c6063ddd1d936f8231239ff68bc5c87/c739e/20180130_132410.jpg 590w,
+/static/5c6063ddd1d936f8231239ff68bc5c87/5413e/20180130_132410.jpg 885w,
+/static/5c6063ddd1d936f8231239ff68bc5c87/4efde/20180130_132410.jpg 1180w,
+/static/5c6063ddd1d936f8231239ff68bc5c87/21d4e/20180130_132410.jpg 5312w"
+        sizes="(max-width: 590px) 100vw, 590px"
+      />
+  </a>
+    </span></p>
+<p>My absolute favorite thing about Mexico City is the street food. 95% of what I ate in Mexico City was street tacos. They’re delicious and dirt cheap, we’re talking 2-3 generous sized tacos for $1. The only problem was that I ate way too damn much because everytime I’d pass by a taco stand I’d think “ah, what the hell, it’s just $1.”</p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;"
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/static/51998432676faae4c93a30cedd6bf9cb/21d4e/20180127_121839.jpg"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url('data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEA//EABUBAQEAAAAAAAAAAAAAAAAAAAEA/9oADAMBAAIQAxAAAAGet8JiHA//xAAZEAEBAQEBAQAAAAAAAAAAAAACAQMAIzH/2gAIAQEAAQUCzMVmea5GlLzGuik+9//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABYRAQEBAAAAAAAAAAAAAAAAAAEQQf/aAAgBAgEBPwENn//EABkQAAMBAQEAAAAAAAAAAAAAAAABESESgf/aAAgBAQAGPwJvYiT0gucMZp//xAAaEAEAAwADAAAAAAAAAAAAAAABABEhQWFx/9oACAEBAAE/IX045Y2nqOmmQAyW6gbCzglpHTP/2gAMAwEAAgADAAAAELAv/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERQf/aAAgBAwEBPxBvCn//xAAWEQEBAQAAAAAAAAAAAAAAAAABACH/2gAIAQIBAT8QHIhf/8QAHBABAQADAAMBAAAAAAAAAAAAAREAIUExscHR/9oACAEBAAE/EG+oNG1T1lTFNWt7r9zarNM8nHAB4Fgaztwj7yB8y02Urn//2Q=='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;"
+        alt="gordita - one of my favorites. 30 pesos ($1.62)"
+        title=""
+        src="/static/51998432676faae4c93a30cedd6bf9cb/c739e/20180127_121839.jpg"
+        srcset="/static/51998432676faae4c93a30cedd6bf9cb/8ee9c/20180127_121839.jpg 148w,
+/static/51998432676faae4c93a30cedd6bf9cb/ebbe7/20180127_121839.jpg 295w,
+/static/51998432676faae4c93a30cedd6bf9cb/c739e/20180127_121839.jpg 590w,
+/static/51998432676faae4c93a30cedd6bf9cb/5413e/20180127_121839.jpg 885w,
+/static/51998432676faae4c93a30cedd6bf9cb/4efde/20180127_121839.jpg 1180w,
+/static/51998432676faae4c93a30cedd6bf9cb/21d4e/20180127_121839.jpg 5312w"
+        sizes="(max-width: 590px) 100vw, 590px"
+      />
+  </a>
+    </span></p>
+<p>One thing that’s interesting about the food vendors is that most people eat “to stay”, even when there’s no seating. If you eat “to stay”, then they give you a plate wrapped in plastic that you then return to them when you’re finished. In NYC, when you’re getting fast food alone the default epectation is that you’re getting it “to go” (never made sense to me unless I’m planning to eat in the park or something).</p>
+<h2>Cheap</h2>
+<p>I already mentioned how cheap the street food is, but everything is cheaper. Riding the subway is 5 pesos ($0.27). I’m pretty sure I saw shoes on sale for $12. Only thing that won’t be cheaper is brand name stuff.</p>
+<h2>Mexican People</h2>
+<p>Mexican people are very laid-back.</p>
+<p>In some American circles there’s this absurd stereotypes of Mexicans being lazy. This couldn’t be further from the truth. Mexicans work the most hours out of every country in the world (according to OECD). Given all the street hawkers/vendors out there who’s livelihoods depend on their sales, I’d wager that the average Mexican is actually more entrepreneurial than the average American.</p>
+<p>Salsa dancing is pretty popular here. I saw the occasional salsa dancing on the street, which was really cool.</p>
+<p>The women are more traditional than in the US. Many are Christian. In terms of physical appearance, most seem to be a mixture with indigenous roots, though there’s a decent amount of diversity. Obesity is fairly prevalent, probably on par with the U.S. Many Mexicans told me that the most beautiful Mexican women are on the coast in cities like Guadalajara.</p>
+<h2>Weather</h2>
+<p>The city is a bit chillier than you’d expect because of its high elevation (2,250m). In January I generally found myself wearing a jacket at night, and sometimes during the day as well.</p>
+<h2>History</h2>
+<p>The city is rich in history, being the oldest capital city in the Americas, built in 1325 by the Aztecs upon them seeing the prophetic Eagle with a snake on its beak perched on a cactus (on the Mexican flag), later being a Spanish colony, etc.</p>
+<h2>The City</h2>
+<p>The city is huge - bigger than NYC both by population and geographic area.</p>
+<p>The city is walkable with what seems to be just the right amount of density. Lots of nice parks, beautiful statues, nice historic architecture, etc. The La Roma and Condesa neighborhoods (upscale neighborhoods) are really nice, with lots of trees lining the roads (this simple thing makes a huge difference in a city, that’s why the West Village and Upper East Side in NYC are so nice). They’ve got a bike share system as well.</p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;"
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/static/020ec48d9306acdfd18347b76fef969e/21d4e/20180129_165644.jpg"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url('data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDBAX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAABbn3hCGgP/8QAHBAAAQMFAAAAAAAAAAAAAAAAAQACAxAREhMi/9oACAEBAAEFAtshjDFgRS/S/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8BiP/EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABgQAQEAAwAAAAAAAAAAAAAAAAECABEg/9oACAEBAAY/AmaTNPP/xAAbEAEAAQUBAAAAAAAAAAAAAAABEQAQITFBcf/aAAgBAQABPyEUSsw0sqGe1rOfLK65b//aAAwDAQACAAMAAAAQhB//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/EA//xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAIAQIBAT8Qta//xAAbEAEBAQADAQEAAAAAAAAAAAABEQAxQVEhYf/aAAgBAQABPxAgD0QeOHrSTAseXLKi9hMd8aE1X6yfm//Z'); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;"
+        alt="park"
+        title=""
+        src="/static/020ec48d9306acdfd18347b76fef969e/c739e/20180129_165644.jpg"
+        srcset="/static/020ec48d9306acdfd18347b76fef969e/8ee9c/20180129_165644.jpg 148w,
+/static/020ec48d9306acdfd18347b76fef969e/ebbe7/20180129_165644.jpg 295w,
+/static/020ec48d9306acdfd18347b76fef969e/c739e/20180129_165644.jpg 590w,
+/static/020ec48d9306acdfd18347b76fef969e/5413e/20180129_165644.jpg 885w,
+/static/020ec48d9306acdfd18347b76fef969e/4efde/20180129_165644.jpg 1180w,
+/static/020ec48d9306acdfd18347b76fef969e/21d4e/20180129_165644.jpg 5312w"
+        sizes="(max-width: 590px) 100vw, 590px"
+      />
+  </a>
+    </span></p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;"
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/static/7d478e9e3d25b94267ba1f6f45584986/21d4e/20180129_170548.jpg"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url('data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMBAgT/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABS3MSSUB//8QAGRAAAgMBAAAAAAAAAAAAAAAAAAECEjED/9oACAEBAAEFAryu+smWFhp//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQIBAT8BWf/EABkQAAEFAAAAAAAAAAAAAAAAABAAAREhQf/aAAgBAQAGPwKdVhz/AP/EABkQAAMBAQEAAAAAAAAAAAAAAAABIRExQf/aAAgBAQABPyH04NjHfRNdtGZdTFGs/9oADAMBAAIAAwAAABCML//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/EFf/xAAWEQEBAQAAAAAAAAAAAAAAAAAAETH/2gAIAQIBAT8Qpqv/xAAbEAEAAwEAAwAAAAAAAAAAAAABABEhMUFRYf/aAAgBAQABPxARroXYX2rqHxspuXu7fbvmK2FwhBst+1P/2Q=='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;"
+        alt="park trees"
+        title=""
+        src="/static/7d478e9e3d25b94267ba1f6f45584986/c739e/20180129_170548.jpg"
+        srcset="/static/7d478e9e3d25b94267ba1f6f45584986/8ee9c/20180129_170548.jpg 148w,
+/static/7d478e9e3d25b94267ba1f6f45584986/ebbe7/20180129_170548.jpg 295w,
+/static/7d478e9e3d25b94267ba1f6f45584986/c739e/20180129_170548.jpg 590w,
+/static/7d478e9e3d25b94267ba1f6f45584986/5413e/20180129_170548.jpg 885w,
+/static/7d478e9e3d25b94267ba1f6f45584986/4efde/20180129_170548.jpg 1180w,
+/static/7d478e9e3d25b94267ba1f6f45584986/21d4e/20180129_170548.jpg 5312w"
+        sizes="(max-width: 590px) 100vw, 590px"
+      />
+  </a>
+    </span></p>
+<p>I love the public art in the city. There’s a cool Salvador Dali park, and lots of beautiful graffiti and statues. The art is often very surreal, which I love.</p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;"
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/static/e13018b56a69ccbccda0de0b18c7be82/21d4e/20180127_120348.jpg"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url('data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAQL/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/2gAMAwEAAhADEAAAAU8U6Uo8y//EABsQAAIBBQAAAAAAAAAAAAAAAAABEQISIjFB/9oACAEBAAEFAnkRUx3S9dZ//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQIBAT8BR//EABoQAAICAwAAAAAAAAAAAAAAAAACATEgImH/2gAIAQEABj8ChK6UbLh//8QAGxAAAgMBAQEAAAAAAAAAAAAAAREAIUExUZH/2gAIAQEAAT8hZvgusB217BCwCb5COtjJRwGrP2f/2gAMAwEAAgADAAAAEGMP/8QAFhEBAQEAAAAAAAAAAAAAAAAAABFB/9oACAEDAQE/ENR//8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERIf/aAAgBAgEBPxBrCD//xAAbEAEAAwEAAwAAAAAAAAAAAAABABEhMVGR0f/aAAgBAQABPxBuQ6hWHiFG7tQKX32PXjxZjBHWodi4kg4XyXk2pu/s/9k='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;"
+        alt="outside the Museum of Anthropology"
+        title=""
+        src="/static/e13018b56a69ccbccda0de0b18c7be82/c739e/20180127_120348.jpg"
+        srcset="/static/e13018b56a69ccbccda0de0b18c7be82/8ee9c/20180127_120348.jpg 148w,
+/static/e13018b56a69ccbccda0de0b18c7be82/ebbe7/20180127_120348.jpg 295w,
+/static/e13018b56a69ccbccda0de0b18c7be82/c739e/20180127_120348.jpg 590w,
+/static/e13018b56a69ccbccda0de0b18c7be82/5413e/20180127_120348.jpg 885w,
+/static/e13018b56a69ccbccda0de0b18c7be82/4efde/20180127_120348.jpg 1180w,
+/static/e13018b56a69ccbccda0de0b18c7be82/21d4e/20180127_120348.jpg 5312w"
+        sizes="(max-width: 590px) 100vw, 590px"
+      />
+  </a>
+    </span></p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;"
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/static/649e6c7f8cff64008985d94180d1da68/21d4e/20180126_183021.jpg"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url('data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEAQX/xAAVAQEBAAAAAAAAAAAAAAAAAAABAP/aAAwDAQACEAMQAAABi1UjoEgP/8QAGRAAAwEBAQAAAAAAAAAAAAAAAAECIREx/9oACAEBAAEFAk9b4O7Lx14j/8QAFhEAAwAAAAAAAAAAAAAAAAAAEBEh/9oACAEDAQE/AVR//8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQIBAT8Bp//EABcQAAMBAAAAAAAAAAAAAAAAAAABICH/2gAIAQEABj8CEa4//8QAGxAAAwACAwAAAAAAAAAAAAAAAAERITFBUWH/2gAIAQEAAT8hgnrJGGpSzlmqux3GTLZ//9oADAMBAAIAAwAAABBM/wD/xAAXEQEAAwAAAAAAAAAAAAAAAAAAASEx/9oACAEDAQE/EJ2W/8QAFxEAAwEAAAAAAAAAAAAAAAAAARARIf/aAAgBAgEBPxAYi//EAB0QAQACAgIDAAAAAAAAAAAAAAEAESExQXFRYcH/2gAIAQEAAT8Q57SfI4jkbPWCYBiLEvzx3MRUDDPUEtne24mylbN9E//Z'); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;"
+        alt="graffiti"
+        title=""
+        src="/static/649e6c7f8cff64008985d94180d1da68/c739e/20180126_183021.jpg"
+        srcset="/static/649e6c7f8cff64008985d94180d1da68/8ee9c/20180126_183021.jpg 148w,
+/static/649e6c7f8cff64008985d94180d1da68/ebbe7/20180126_183021.jpg 295w,
+/static/649e6c7f8cff64008985d94180d1da68/c739e/20180126_183021.jpg 590w,
+/static/649e6c7f8cff64008985d94180d1da68/5413e/20180126_183021.jpg 885w,
+/static/649e6c7f8cff64008985d94180d1da68/4efde/20180126_183021.jpg 1180w,
+/static/649e6c7f8cff64008985d94180d1da68/21d4e/20180126_183021.jpg 5312w"
+        sizes="(max-width: 590px) 100vw, 590px"
+      />
+  </a>
+    </span></p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;"
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/static/5ed91a577812a91b25f5f5dbb95d9d84/21d4e/20180129_174921.jpg"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url('data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAME/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAY6cqCChr//EABgQAAMBAQAAAAAAAAAAAAAAAAABAhEx/9oACAEBAAEFApR1XGUloxI//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQIBAT8Bp//EABoQAAICAwAAAAAAAAAAAAAAAAARATEgUXH/2gAIAQEABj8CsTijfMP/xAAYEAEBAQEBAAAAAAAAAAAAAAABEQAxYf/aAAgBAQABPyG3Zut5r1kQp6wKU3GBK7//2gAMAwEAAgADAAAAEO/P/8QAFREBAQAAAAAAAAAAAAAAAAAAAAH/2gAIAQMBAT8QSP/EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAgBAgEBPxCGv//EABsQAQEAAwADAAAAAAAAAAAAAAERACExQXGR/9oACAEBAAE/EHm5GjT9xSrNiOz04NxD004dQaFxQhq9yXK185//2Q=='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;"
+        alt="creepy graffiti"
+        title=""
+        src="/static/5ed91a577812a91b25f5f5dbb95d9d84/c739e/20180129_174921.jpg"
+        srcset="/static/5ed91a577812a91b25f5f5dbb95d9d84/8ee9c/20180129_174921.jpg 148w,
+/static/5ed91a577812a91b25f5f5dbb95d9d84/ebbe7/20180129_174921.jpg 295w,
+/static/5ed91a577812a91b25f5f5dbb95d9d84/c739e/20180129_174921.jpg 590w,
+/static/5ed91a577812a91b25f5f5dbb95d9d84/5413e/20180129_174921.jpg 885w,
+/static/5ed91a577812a91b25f5f5dbb95d9d84/4efde/20180129_174921.jpg 1180w,
+/static/5ed91a577812a91b25f5f5dbb95d9d84/21d4e/20180129_174921.jpg 5312w"
+        sizes="(max-width: 590px) 100vw, 590px"
+      />
+  </a>
+    </span></p>
+<p>If you’re into museums, Mexico City has amongst the most museums in the world.</p>
+<p>One pleasant thing I noticed was that I never hear any police sirens, and this seems to be the case in every other Latin American city I’ve visited so far. In NYC, the constant ear-piercing sirens was one of the things I hated the most about the city. Good to know that there are cities with comparable density without this problem.</p>
+<h2>Negatives</h2>
+<p>The main negatives to me are:</p>
+<ol>
+<li>Can’t drink the tap water</li>
+<li>Air Quality isn’t great. Smog. My sense of smell isn’t that sensitive so it didn’t really bother me, but I could see it bothering those with a sensitive sense of smell, and I wonder what the long term impacts are (I was only there 1 week)</li>
+<li>Lack of public trash cans. It’s surprisingly difficult to find a public trash can. Often I’d buy street tacos to go, and end up holding the tray for a ridiculously long time due to inability to find a trash can.</li>
+<li>Traffic (though honestly, it seems that traffic in every major city in 2018 is horrible)</li>
+</ol>
+<p>I’ll go ahead and mention safety only because in the grand scheme of things, Mexico City is not going to be safe as an Asian city. I personally didn’t have any problems, even walking around alone past midnight, but I have heard some stories - usually in the more sketchy lesser known areas. One of the guys at my hostel was in one of those areas and watched a thief snatch the earrings off a lady in front of him and run off. Honestly though, I think that as long as you’re street smart, the odds of anything happening is very small. Take Ubers instead of taxis, don’t put your phone/wallet in your back pocket, put your bag in front of you when on a crowded subway, etc.</p>
+<p>The only negative experience I had was when buying a bus ticket to Teotihuacan (the pyramids). I paid the 104 pesos with a 200 peso bill, and received 20 pesos ($1.08) less in change than I was owed. I gave the change back to her, and she gave me the correct change without even apologizing. Could’ve been an innocent mistake, but given her body language and such I think it was deliberate. Other than this though, people were very nice and didn’t rip me off.</p>
+<p>There doesn’t seem to be any more homeless people than you see in American cities like NYC. If anything it seems like there are less homeless people. The difference is that the homeless people tend to be women (in America it seems to be the reverse), and they often have babies and/or little children - something you rarely see in the homeless in the US. Sometimes the kids are playing instruments.</p>
+<h2>Summary</h2>
+<p>Overall, I think Mexico City is a great city with a rich history and culture. The street food is abundant, delicious, and cheap. The stigma of Mexico City being very dangerous is completely false.</p>
+<p>For the digital nomad, it’d make a great base due to how cheap everything is. Just be aware that most Mexicans speak very little to no English (seems to be the case in most of Latin America).</p>
+<p>Bullet-point summary:</p>
+<ul>
+<li>Not dangerous</li>
+<li>Street hawkers/vendors everywhere</li>
+<li>Amazing street tacos</li>
+<li>Cheap</li>
+<li>Nice parks and public art</li>
+<li>Lots of history and museums</li>
+<li>Good level of walkability and density (compared to US)</li>
+</ul>
+<p>Given how cheap the flights are from the U.S. (my one-way ticket from Baltimore was only $117), I really think that every American should check out this city even if just for a 3 day weekend, especially in the wake of all this baseless racist vitriol leveled against Mexicans by our idiot president - calling them rapists and criminals - and fanatically obsessed with building a stupid wall that won’t accomplish anything. Most Mexicans are peaceful hardworking people, and I’m fairly sure most Mexicans don’t want to move to the U.S.</p>
+<h2>Hostels</h2>
+<p>I stayed at DF Suites Hostel. I really enjoyed my stay there, mainly due to the people. It seemed like 90% of the guests there were solo travelers (at most hostels that number feels more like 33%), and thus it was very easy to meet people. I think this is because Mexico City is not very touristy, and thus the people that go there are more likely to be solo travelers. The breakfast in the mornings is pretty good, and the terraces are nice. Group trip to Lubra Libre wrestling on Wednesdays and Fridays.</p>
+<p>Biggest downside is that the internet is very unreliable from the rooms (it’s fine in the common areas). The location is downtown and walking distance to a lot of the historical sights, but it’s fairly dead at night and not in the most “hip” location. Next time I’ll probably stay in the more upscale La Roma or Condesa neighborhoods where the nightlife is.</p>
+<h2>Tips</h2>
+<ul>
+<li>Starbucks has free WiFi</li>
+<li>You can get WiFi at the airports and in parks if you enter your email (there’s a button on the right of the sign-on screen that reveals a box to enter your email), but it only lasts 5 minutes.</li>
+<li>You can buy 1L bottled watter for 8 pesos at the grocery markets that the locals go to.</li>
+</ul></div><hr style="margin-bottom:1.75rem"/><div class="Bio__Container-sc-1xze3le-0 fIVJqS"><a style="margin-right:0.875rem;box-shadow:none" href="/my-story"><img src="/static/profile-pic-6ae3b77614825eb7797e37c1ee0a3c4b.png" alt="Jeremy Bernier" style="margin-right:0.875rem;margin-bottom:0;width:5.25rem;border-radius:50%"/></a><p>Written by <a style="color:inherit;text-decoration:none;box-shadow:none" href="/my-story"><strong>Jeremy Bernier</strong></a> <!-- -->who left the NYC rat race to travel the world, work remotely, and find the meaning of life.<!-- --> <a href="https://twitter.com/jeremybernier" class="icon-link twitter" title="Twitter"><svg class="icon twitter" viewBox="0 0 512 512"><path d="M419.6 168.6c-11.7 5.2-24.2 8.7-37.4 10.2 13.4-8.1 23.8-20.8 28.6-36 -12.6 7.5-26.5 12.9-41.3 15.8 -11.9-12.6-28.8-20.6-47.5-20.6 -42 0-72.9 39.2-63.4 79.9 -54.1-2.7-102.1-28.6-134.2-68 -17 29.2-8.8 67.5 20.1 86.9 -10.7-0.3-20.7-3.3-29.5-8.1 -0.7 30.2 20.9 58.4 52.2 64.6 -9.2 2.5-19.2 3.1-29.4 1.1 8.3 25.9 32.3 44.7 60.8 45.2 -27.4 21.4-61.8 31-96.4 27 28.8 18.5 63 29.2 99.8 29.2 120.8 0 189.1-102.1 185-193.6C399.9 193.1 410.9 181.7 419.6 168.6z"></path></svg></a><a href="https://www.instagram.com/cityofjeremy" class="icon-link instagram" title="Instagram"><svg class="icon" viewBox="0 0 512 512"><g><path d="M256 109.3c47.8 0 53.4 0.2 72.3 1 17.4 0.8 26.9 3.7 33.2 6.2 8.4 3.2 14.3 7.1 20.6 13.4 6.3 6.3 10.1 12.2 13.4 20.6 2.5 6.3 5.4 15.8 6.2 33.2 0.9 18.9 1 24.5 1 72.3s-0.2 53.4-1 72.3c-0.8 17.4-3.7 26.9-6.2 33.2 -3.2 8.4-7.1 14.3-13.4 20.6 -6.3 6.3-12.2 10.1-20.6 13.4 -6.3 2.5-15.8 5.4-33.2 6.2 -18.9 0.9-24.5 1-72.3 1s-53.4-0.2-72.3-1c-17.4-0.8-26.9-3.7-33.2-6.2 -8.4-3.2-14.3-7.1-20.6-13.4 -6.3-6.3-10.1-12.2-13.4-20.6 -2.5-6.3-5.4-15.8-6.2-33.2 -0.9-18.9-1-24.5-1-72.3s0.2-53.4 1-72.3c0.8-17.4 3.7-26.9 6.2-33.2 3.2-8.4 7.1-14.3 13.4-20.6 6.3-6.3 12.2-10.1 20.6-13.4 6.3-2.5 15.8-5.4 33.2-6.2C202.6 109.5 208.2 109.3 256 109.3M256 77.1c-48.6 0-54.7 0.2-73.8 1.1 -19 0.9-32.1 3.9-43.4 8.3 -11.8 4.6-21.7 10.7-31.7 20.6 -9.9 9.9-16.1 19.9-20.6 31.7 -4.4 11.4-7.4 24.4-8.3 43.4 -0.9 19.1-1.1 25.2-1.1 73.8 0 48.6 0.2 54.7 1.1 73.8 0.9 19 3.9 32.1 8.3 43.4 4.6 11.8 10.7 21.7 20.6 31.7 9.9 9.9 19.9 16.1 31.7 20.6 11.4 4.4 24.4 7.4 43.4 8.3 19.1 0.9 25.2 1.1 73.8 1.1s54.7-0.2 73.8-1.1c19-0.9 32.1-3.9 43.4-8.3 11.8-4.6 21.7-10.7 31.7-20.6 9.9-9.9 16.1-19.9 20.6-31.7 4.4-11.4 7.4-24.4 8.3-43.4 0.9-19.1 1.1-25.2 1.1-73.8s-0.2-54.7-1.1-73.8c-0.9-19-3.9-32.1-8.3-43.4 -4.6-11.8-10.7-21.7-20.6-31.7 -9.9-9.9-19.9-16.1-31.7-20.6 -11.4-4.4-24.4-7.4-43.4-8.3C310.7 77.3 304.6 77.1 256 77.1L256 77.1z"></path><path d="M256 164.1c-50.7 0-91.9 41.1-91.9 91.9s41.1 91.9 91.9 91.9 91.9-41.1 91.9-91.9S306.7 164.1 256 164.1zM256 315.6c-32.9 0-59.6-26.7-59.6-59.6s26.7-59.6 59.6-59.6 59.6 26.7 59.6 59.6S288.9 315.6 256 315.6z"></path><circle cx="351.5" cy="160.5" r="21.5"></circle></g></svg></a><a href="https://www.youtube.com/c/JDiculous1" class="icon-link youtube" title="YouTube"><svg class="icon" viewBox="0 0 512 512"><path d="M422.6 193.6c-5.3-45.3-23.3-51.6-59-54 -50.8-3.5-164.3-3.5-215.1 0 -35.7 2.4-53.7 8.7-59 54 -4 33.6-4 91.1 0 124.8 5.3 45.3 23.3 51.6 59 54 50.9 3.5 164.3 3.5 215.1 0 35.7-2.4 53.7-8.7 59-54C426.6 284.8 426.6 227.3 422.6 193.6zM222.2 303.4v-94.6l90.7 47.3L222.2 303.4z"></path></svg></a></p></div><ul style="display:flex;flex-wrap:wrap;justify-content:space-between;list-style:none;padding:0"><li><a rel="prev" href="/why-i-left-nyc/">← <!-- -->Why I Left NYC</a></li><li><a rel="next" href="/back-in-the-us-after-4-months-in-south-america/">How it feels to be back in the U.S. after 4 months in South America<!-- --> →</a></li></ul><div id="disqus_thread"></div></div></div></div><script>
+  
+  
+  if(true) {
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  }
+  if (typeof ga === "function") {
+    ga('create', 'UA-58453612-1', 'auto', {});
+      
+      
+      
+      }
+      </script><script id="gatsby-script-loader">/*<![CDATA[*/window.pagePath="/mexico-city/";window.webpackCompilationHash="c5e926c62437d9815d94";/*]]>*/</script><script id="gatsby-chunk-mapping">/*<![CDATA[*/window.___chunkMapping={"app":["/app-ca04ae849eda53a0b376.js"],"component---node-modules-gatsby-plugin-offline-app-shell-js":["/component---node-modules-gatsby-plugin-offline-app-shell-js-cfefc0f268629ce2e48d.js"],"component---src-templates-blog-list-js":["/component---src-templates-blog-list-js-b4b108051df3f0ea6471.js"],"component---src-templates-blog-post-js":["/component---src-templates-blog-post-js-7b033f9f76ccedcfe84c.js"],"component---src-pages-404-js":["/component---src-pages-404-js-7e5292e5037d547359cf.js"],"component---src-pages-index-js":["/component---src-pages-index-js-aa9f1d911d5203ad8e00.js"]};/*]]>*/</script><script src="/webpack-runtime-bbb58466773fc6c445a6.js" async=""></script><script src="/styles-3373a71a4ae6084294fe.js" async=""></script><script src="/1-90cf75ba8317855b62e0.js" async=""></script><script src="/9-e67ed6864864ee80e83c.js" async=""></script><script src="/app-ca04ae849eda53a0b376.js" async=""></script><script src="/component---src-templates-blog-post-js-7b033f9f76ccedcfe84c.js" async=""></script></body></html>
