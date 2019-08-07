@@ -1,4 +1,61 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Jeremy Abroad]]></title><description><![CDATA[I left the NYC rat race to travel the world. Here I post my thoughts on life, travel, tech, and politics.]]></description><link>https://www.jeremyabroad.com</link><generator>RSS for Node</generator><lastBuildDate>Thu, 01 Aug 2019 04:52:41 GMT</lastBuildDate><item><title><![CDATA[It's Been a While...]]></title><description><![CDATA[Wow it’s been a while since I posted here.Why’d I stop posting on this blog?Embarassingly little traffic (+ focusing on other projects). I…]]></description><link>https://www.jeremyabroad.com/been-a-while/</link><guid isPermaLink="false">https://www.jeremyabroad.com/been-a-while/</guid><pubDate>Tue, 02 Jul 2019 21:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Wow it’s been a while since I posted here.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Jeremy Abroad]]></title><description><![CDATA[I left the NYC rat race to travel the world. Here I post my thoughts on life, travel, tech, and politics.]]></description><link>https://www.jeremyabroad.com</link><generator>RSS for Node</generator><lastBuildDate>Wed, 07 Aug 2019 17:14:09 GMT</lastBuildDate><item><title><![CDATA[Why I Don't Recommend Using a Static Site Generator for a Blog]]></title><description><![CDATA[Static Site Generators are sort of in vogue in the developer community. And there are certainly huge advantages, such as being able to host…]]></description><link>https://www.jeremyabroad.com/done-with-static-site-generators/</link><guid isPermaLink="false">https://www.jeremyabroad.com/done-with-static-site-generators/</guid><pubDate>Thu, 08 Aug 2019 02:12:03 GMT</pubDate><content:encoded>&lt;p&gt;Static Site Generators are sort of in vogue in the developer community. And there are certainly huge advantages, such as being able to host your website for free on GitHub Pages and blazing fast, reliable performance.&lt;/p&gt;
+&lt;p&gt;I made this blog in Gatsbyjs, but I will now be deprecating it for a Wordpress blog.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Wordpress? Ew. Doesn’t that use PHP?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Look, I just want a simple blog platform where I can focus purely on the content. Any time not spent creating content is a distraction, a literal waste of time. The older you get, the more you realize how precious time is. At the end of the day it’s a website, and nobody except for developers cares about the tools you used to create it.&lt;/p&gt;
+&lt;p&gt;The last straw was when my laptop broke, and I realized I couldn’t update my blog until it was fixed. If I just had a Wordpress blog (or some kind of admin panel, I’m sure someone’s made one for Gatsby that I’m not aware of), I could just log in from any computer in a PC Cafe and continue posting.&lt;/p&gt;
+&lt;p&gt;I could find an admin panel solution, or I could just call it a day and use Wordpress. I’d been wanting to ditch Gatsby anyways so, so the decision didn’t take much deliberation.&lt;/p&gt;
+&lt;p&gt;I’ll preface this by saying that you should by all means consider Gatsby if all you want is a simple barebones website that you don’t plan to update much, or if you want to havily customize it in a way that would be difficult with a tried-and-true platform like Wordpress. &lt;/p&gt;
+&lt;p&gt;Now here’s why I’m leaving Gatsbyjs&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;There are a very limited selection of themes, and nothing I particularly like (though admittedly the selection has improved tremendously since I made this site). Switching themes basically requires a complete rewrite, whereas with something like Wordpress, it’s literally just the click of a button.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;My website is basic as hell, but I had to do a decent amount of development to even get it to look and function like this (eg. filtering posts by tag, comments), and it’s still way less functional or pretty than any standard WordPress template.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Vertical Images look weird (&lt;a href=&quot;/been-a-while/&quot;&gt;eg&lt;/a&gt;. I don’t know why this is broken, and a cursory Google search returns nothing. Clearly not everything works out of the box (unlike WordPress).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Build times take forever, especially when you have ~70 posts like I do. I’m sure part of the slowness is from being on WSL, but still it takes ~40 seconds to build. Then when I want to commit and push that’s like another minute. Meanwhile on WordPress it’s instant.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Writing new posts takes forever. I have to create a new folder, create a new Markdown file, set the date, etc. Ok now that I wrote this out I realize I sound like a baby because it would be super easy to add a script to automate this, but still! Why isn’t this there by default? In any case, I prefer being able to click the “Write” button in WordPress.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Dealing with drafts. This is one of the biggest annoyances. Often I would start writing a post, not finish it, write a new post, build and deploy, and then notice that the unfinished post was accidentally pushed - and then having to move the unfinished posts to a “draft” folder (which isn’t possible in Sublime Text sadly) and redeploy (my last post was one of those accidentally published drafts, but I said “screw it I’ll just keep it up” and slapped on a quick and dirty “conclusion” to the end).&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Of course I could develop some solution to this, but that’s more time wasted developing, less time making content.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Not having an admin panel. This is also one of the biggest issues. It’s just way nicer having a page where you can easily see and update all your posts and drafts, especially if it’s accessible online from any computer (without the potential security risk of it being hacked). &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sometimes Gatsby just breaks&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;When I’m writing I’m running &lt;code class=&quot;language-text&quot;&gt;npm run dev&lt;/code&gt;, and sometimes I’ll notice the page isn’t updating and I’ll check the command line to see it’s crashed with an error like this:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;error UNHANDLED REJECTION
+
+
+  FetchError: request to http://localhost:8000/___graphql failed, reason: socket hang up
+
+  - index.js:1455 ClientRequest.&amp;lt;anonymous&amp;gt;
+    [jbernier-gatsby]/[gatsby]/[node-fetch]/lib/index.js:1455:11
+
+  - next_tick.js:63 process._tickCallback
+    internal/process/next_tick.js:63:19&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;What is this cryptic error? I don’t have time for this. This maybe wouldn’t be as big a deal if it didn’t take a whole minute to build again.&lt;/p&gt;
+&lt;p&gt;One time I tried to build my project after a long hiatus, and my project literally wouldn’t build anymore. I was getting some cryptic Gatsby error from an NPM dependency that didn’t return anything on Google. Long story short I was able to fix it by reverting to an older Git commit. Again, any time not spent on creating content for a content-driven website is time wasted.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;I don’t mean to dissuade you from using a static site generator like Gatsby. They certainly have their use-cases.&lt;/p&gt;
+&lt;p&gt;But if you just want to make a blog where you frequently update it, then I highly recommend NOT using a static site generator as the additional friction of dealing with one will reduce your productivity and simply be a distraction. To get your website to even a comparable level to any standard WordPress template will require a lot of development work because the default templates (at least for Gatsby) are super basic and rudimentary.&lt;/p&gt;
+&lt;p&gt;I now have a new WordPress blog (not this site) where I’ve been posting every single day for the last week. I would never post that frequently for that long on this static website becase just the thought of having to go through all that extra work every day makes me think “screw it I’ll do something else”.&lt;/p&gt;
+&lt;p&gt;Of course one can take the time to write scripts and automate away a lot of this “friction”, but why bother if WordPress has already solved this problem?&lt;/p&gt;
+&lt;p&gt;But hey if you’re looking to reinvent the wheel and re-solve all this in the static-site generator world, then I encourage you to push it to GitHub and open source it. If enough of this stuff gets developed, then perhaps I’d consider switching back in the future.&lt;/p&gt;
+&lt;p&gt;As a younger and perhaps hungrier engineer (at least in a different way) I spent a ridiculous amount of time coding custom personal websites using libraries like React and creating my own custom frameworks (before Redux) and hosting my own web servers with their databases. Although it was a fantastic learning experience so I can’t say I regret any of it - let’s call a spade a spade here: It’s over-engineering. Great if you want to learn engineering. A distraction and time sink if you want to actually build something useful to other people.&lt;/p&gt;
+&lt;p&gt;WYSIWYG generators have come a long way. If you’re just making a basic blog or website, there’s not need to waste your time reinventing the wheel by coding unless you’re trying to do something very customized, or are doing it as a learning experience.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[It's Been a While...]]></title><description><![CDATA[Wow it’s been a while since I posted here.Why’d I stop posting on this blog?Embarassingly little traffic (+ focusing on other projects). I…]]></description><link>https://www.jeremyabroad.com/been-a-while/</link><guid isPermaLink="false">https://www.jeremyabroad.com/been-a-while/</guid><pubDate>Tue, 02 Jul 2019 21:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Wow it’s been a while since I posted here.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
