@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Jeremy Abroad]]></title><description><![CDATA[I left the NYC rat race to travel the world. Here I post my thoughts on life, travel, tech, and politics.]]></description><link>https://www.jeremyabroad.com</link><generator>RSS for Node</generator><lastBuildDate>Sun, 11 Aug 2019 03:48:32 GMT</lastBuildDate><item><title><![CDATA[It's Been a While...]]></title><description><![CDATA[Wow it’s been a while since I posted here.Why’d I stop posting on this blog?Embarassingly little traffic (+ focusing on other projects). I…]]></description><link>https://www.jeremyabroad.com/been-a-while/</link><guid isPermaLink="false">https://www.jeremyabroad.com/been-a-while/</guid><pubDate>Tue, 02 Jul 2019 21:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Wow it’s been a while since I posted here.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Jeremy Abroad]]></title><description><![CDATA[I left the NYC rat race to travel the world. Here I post my thoughts on life, travel, tech, and politics.]]></description><link>https://www.jeremyabroad.com</link><generator>RSS for Node</generator><lastBuildDate>Sun, 11 Aug 2019 04:38:26 GMT</lastBuildDate><item><title><![CDATA[It's Been a While...]]></title><description><![CDATA[Wow it’s been a while since I posted here.Why’d I stop posting on this blog?Embarassingly little traffic (+ focusing on other projects). I…]]></description><link>https://www.jeremyabroad.com/been-a-while/</link><guid isPermaLink="false">https://www.jeremyabroad.com/been-a-while/</guid><pubDate>Tue, 02 Jul 2019 21:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Wow it’s been a while since I posted here.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/9413b4c8b9f62c331e245b8a85e46f57/0d566/20190712_190725.jpg&quot;
+    href=&quot;/gatsby-starter-blog/static/9413b4c8b9f62c331e245b8a85e46f57/0d566/20190712_190725.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -19,13 +19,13 @@
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
         alt=&quot;me&quot;
         title=&quot;&quot;
-        src=&quot;/static/9413b4c8b9f62c331e245b8a85e46f57/c739e/20190712_190725.jpg&quot;
-        srcset=&quot;/static/9413b4c8b9f62c331e245b8a85e46f57/8ee9c/20190712_190725.jpg 148w,
-/static/9413b4c8b9f62c331e245b8a85e46f57/ebbe7/20190712_190725.jpg 295w,
-/static/9413b4c8b9f62c331e245b8a85e46f57/c739e/20190712_190725.jpg 590w,
-/static/9413b4c8b9f62c331e245b8a85e46f57/5413e/20190712_190725.jpg 885w,
-/static/9413b4c8b9f62c331e245b8a85e46f57/4efde/20190712_190725.jpg 1180w,
-/static/9413b4c8b9f62c331e245b8a85e46f57/0d566/20190712_190725.jpg 2988w&quot;
+        src=&quot;/gatsby-starter-blog/static/9413b4c8b9f62c331e245b8a85e46f57/c739e/20190712_190725.jpg&quot;
+        srcset=&quot;/gatsby-starter-blog/static/9413b4c8b9f62c331e245b8a85e46f57/8ee9c/20190712_190725.jpg 148w,
+/gatsby-starter-blog/static/9413b4c8b9f62c331e245b8a85e46f57/ebbe7/20190712_190725.jpg 295w,
+/gatsby-starter-blog/static/9413b4c8b9f62c331e245b8a85e46f57/c739e/20190712_190725.jpg 590w,
+/gatsby-starter-blog/static/9413b4c8b9f62c331e245b8a85e46f57/5413e/20190712_190725.jpg 885w,
+/gatsby-starter-blog/static/9413b4c8b9f62c331e245b8a85e46f57/4efde/20190712_190725.jpg 1180w,
+/gatsby-starter-blog/static/9413b4c8b9f62c331e245b8a85e46f57/0d566/20190712_190725.jpg 2988w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
   &lt;/a&gt;
@@ -52,7 +52,7 @@
 &lt;p&gt;What am I up to right now?&lt;/p&gt;
 &lt;p&gt;I’ve been living in Seoul, Korea for the last 3.5 months and am liking it here, especially the food. I want to learn the language now - not only to communicate with more people, but if only for the personal challenge of it.&lt;/p&gt;
 &lt;p&gt;I’m going to start applying for remote jobs. I’ve noticed there’s been an increase in quality companies offering remote jobs, which is fantastic.&lt;/p&gt;
-&lt;p&gt;It’s 2019 - ever since I started working &lt;a href=&quot;/remote-work&quot;&gt;it always struck me as odd&lt;/a&gt; that many companies insist on confing their workforces domestically to ridiculously expensive cities like NYC/SF that have proven incapable of accommodating reasonably-priced housing for the massive influx of residents (maybe the investors running these companies are landlords themselves?), not to mention other issues like accommodating the ever-increasing insane amount of homeless people and mentally insane people, constant ear-piercing sirens, overcongested sidewalks/streets, etc.&lt;/p&gt;
+&lt;p&gt;It’s 2019 - ever since I started working &lt;a href=&quot;/gatsby-starter-blog/remote-work&quot;&gt;it always struck me as odd&lt;/a&gt; that many companies insist on confing their workforces domestically to ridiculously expensive cities like NYC/SF that have proven incapable of accommodating reasonably-priced housing for the massive influx of residents (maybe the investors running these companies are landlords themselves?), not to mention other issues like accommodating the ever-increasing insane amount of homeless people and mentally insane people, constant ear-piercing sirens, overcongested sidewalks/streets, etc.&lt;/p&gt;
 &lt;p&gt;I feel a bit removed from that in Seoul. I never see homeless people, I’m in a hip area paying $8/night for accommodation, food is ridiculously delicious and cheap ($5-7 for a fantastic filling meal at a nice restaurant), I’ve got 24/7 coffee shops within walking distance, I’ve never felt unsafe, the air is clean, it’s quiet - yet there’s so much to do, etc.&lt;/p&gt;
 &lt;p&gt;Anyways, here’s my &lt;a href=&quot;https://www.jbernier.com/resume.pdf&quot;&gt;resume&lt;/a&gt; and &lt;a href=&quot;https://www.linkedin.com/in/jeremysbernier&quot;&gt;LinkedIn&lt;/a&gt;. Contact me &lt;a href=&quot;https://www.jbernier.com/&quot;&gt;here&lt;/a&gt; if you need a solid remote engineer.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Places I've Been]]></title><description><![CDATA[Here is a list of the cities and countries I’ve been to. The purpose here isn’t to brag or anything like that, this is literally just for me…]]></description><link>https://www.jeremyabroad.com/places-ive-been/</link><guid isPermaLink="false">https://www.jeremyabroad.com/places-ive-been/</guid><pubDate>Tue, 02 Jul 2019 14:18:45 GMT</pubDate><content:encoded>&lt;p&gt;Here is a list of the cities and countries I’ve been to. The purpose here isn’t to brag or anything like that, this is literally just for me to keep track of everywhere I’ve been. I’m not including countries I have no memory of because I visited as a young child (eg. apparently I’ve been to Gabon).&lt;/p&gt;
 &lt;p&gt;Most of these countries were visited over the last year and a half when I left NYC to travel the world.&lt;/p&gt;
@@ -60,7 +60,7 @@
 &lt;h3&gt;Central America&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Mexico&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;/mexico-city&quot;&gt;Mexico City (1 week)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/gatsby-starter-blog/mexico-city&quot;&gt;Mexico City (1 week)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=uwX_uZrar80&quot;&gt;Cancun&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Cuba&lt;/strong&gt;&lt;/p&gt;
@@ -228,7 +228,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/a1566376220ff6164a50600b160dcf71/21d4e/20181204_155636.jpg&quot;
+    href=&quot;/gatsby-starter-blog/static/a1566376220ff6164a50600b160dcf71/21d4e/20181204_155636.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -242,13 +242,13 @@
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
         alt=&quot;long neck&quot;
         title=&quot;&quot;
-        src=&quot;/static/a1566376220ff6164a50600b160dcf71/c739e/20181204_155636.jpg&quot;
-        srcset=&quot;/static/a1566376220ff6164a50600b160dcf71/8ee9c/20181204_155636.jpg 148w,
-/static/a1566376220ff6164a50600b160dcf71/ebbe7/20181204_155636.jpg 295w,
-/static/a1566376220ff6164a50600b160dcf71/c739e/20181204_155636.jpg 590w,
-/static/a1566376220ff6164a50600b160dcf71/5413e/20181204_155636.jpg 885w,
-/static/a1566376220ff6164a50600b160dcf71/4efde/20181204_155636.jpg 1180w,
-/static/a1566376220ff6164a50600b160dcf71/21d4e/20181204_155636.jpg 5312w&quot;
+        src=&quot;/gatsby-starter-blog/static/a1566376220ff6164a50600b160dcf71/c739e/20181204_155636.jpg&quot;
+        srcset=&quot;/gatsby-starter-blog/static/a1566376220ff6164a50600b160dcf71/8ee9c/20181204_155636.jpg 148w,
+/gatsby-starter-blog/static/a1566376220ff6164a50600b160dcf71/ebbe7/20181204_155636.jpg 295w,
+/gatsby-starter-blog/static/a1566376220ff6164a50600b160dcf71/c739e/20181204_155636.jpg 590w,
+/gatsby-starter-blog/static/a1566376220ff6164a50600b160dcf71/5413e/20181204_155636.jpg 885w,
+/gatsby-starter-blog/static/a1566376220ff6164a50600b160dcf71/4efde/20181204_155636.jpg 1180w,
+/gatsby-starter-blog/static/a1566376220ff6164a50600b160dcf71/21d4e/20181204_155636.jpg 5312w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
   &lt;/a&gt;
@@ -263,7 +263,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/5d6359591ca47d0fcf6dd13f9c1d3713/af534/boat.png&quot;
+    href=&quot;/gatsby-starter-blog/static/5d6359591ca47d0fcf6dd13f9c1d3713/af534/boat.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -277,13 +277,13 @@
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
         alt=&quot;boat&quot;
         title=&quot;&quot;
-        src=&quot;/static/5d6359591ca47d0fcf6dd13f9c1d3713/b9e4f/boat.png&quot;
-        srcset=&quot;/static/5d6359591ca47d0fcf6dd13f9c1d3713/cf440/boat.png 148w,
-/static/5d6359591ca47d0fcf6dd13f9c1d3713/d2d38/boat.png 295w,
-/static/5d6359591ca47d0fcf6dd13f9c1d3713/b9e4f/boat.png 590w,
-/static/5d6359591ca47d0fcf6dd13f9c1d3713/f9b6a/boat.png 885w,
-/static/5d6359591ca47d0fcf6dd13f9c1d3713/2d849/boat.png 1180w,
-/static/5d6359591ca47d0fcf6dd13f9c1d3713/af534/boat.png 3840w&quot;
+        src=&quot;/gatsby-starter-blog/static/5d6359591ca47d0fcf6dd13f9c1d3713/b9e4f/boat.png&quot;
+        srcset=&quot;/gatsby-starter-blog/static/5d6359591ca47d0fcf6dd13f9c1d3713/cf440/boat.png 148w,
+/gatsby-starter-blog/static/5d6359591ca47d0fcf6dd13f9c1d3713/d2d38/boat.png 295w,
+/gatsby-starter-blog/static/5d6359591ca47d0fcf6dd13f9c1d3713/b9e4f/boat.png 590w,
+/gatsby-starter-blog/static/5d6359591ca47d0fcf6dd13f9c1d3713/f9b6a/boat.png 885w,
+/gatsby-starter-blog/static/5d6359591ca47d0fcf6dd13f9c1d3713/2d849/boat.png 1180w,
+/gatsby-starter-blog/static/5d6359591ca47d0fcf6dd13f9c1d3713/af534/boat.png 3840w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
   &lt;/a&gt;
@@ -299,7 +299,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/1aa877fd9eb72103983264ab51155089/af534/oh-snap.png&quot;
+    href=&quot;/gatsby-starter-blog/static/1aa877fd9eb72103983264ab51155089/af534/oh-snap.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -313,13 +313,13 @@
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
         alt=&quot;oh snap&quot;
         title=&quot;&quot;
-        src=&quot;/static/1aa877fd9eb72103983264ab51155089/b9e4f/oh-snap.png&quot;
-        srcset=&quot;/static/1aa877fd9eb72103983264ab51155089/cf440/oh-snap.png 148w,
-/static/1aa877fd9eb72103983264ab51155089/d2d38/oh-snap.png 295w,
-/static/1aa877fd9eb72103983264ab51155089/b9e4f/oh-snap.png 590w,
-/static/1aa877fd9eb72103983264ab51155089/f9b6a/oh-snap.png 885w,
-/static/1aa877fd9eb72103983264ab51155089/2d849/oh-snap.png 1180w,
-/static/1aa877fd9eb72103983264ab51155089/af534/oh-snap.png 3840w&quot;
+        src=&quot;/gatsby-starter-blog/static/1aa877fd9eb72103983264ab51155089/b9e4f/oh-snap.png&quot;
+        srcset=&quot;/gatsby-starter-blog/static/1aa877fd9eb72103983264ab51155089/cf440/oh-snap.png 148w,
+/gatsby-starter-blog/static/1aa877fd9eb72103983264ab51155089/d2d38/oh-snap.png 295w,
+/gatsby-starter-blog/static/1aa877fd9eb72103983264ab51155089/b9e4f/oh-snap.png 590w,
+/gatsby-starter-blog/static/1aa877fd9eb72103983264ab51155089/f9b6a/oh-snap.png 885w,
+/gatsby-starter-blog/static/1aa877fd9eb72103983264ab51155089/2d849/oh-snap.png 1180w,
+/gatsby-starter-blog/static/1aa877fd9eb72103983264ab51155089/af534/oh-snap.png 3840w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
   &lt;/a&gt;
@@ -332,7 +332,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/6a4bd5e6fc1e8dc8424b1772290db551/af534/forest-bridge.png&quot;
+    href=&quot;/gatsby-starter-blog/static/6a4bd5e6fc1e8dc8424b1772290db551/af534/forest-bridge.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -346,13 +346,13 @@
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
         alt=&quot;forest bridge&quot;
         title=&quot;&quot;
-        src=&quot;/static/6a4bd5e6fc1e8dc8424b1772290db551/b9e4f/forest-bridge.png&quot;
-        srcset=&quot;/static/6a4bd5e6fc1e8dc8424b1772290db551/cf440/forest-bridge.png 148w,
-/static/6a4bd5e6fc1e8dc8424b1772290db551/d2d38/forest-bridge.png 295w,
-/static/6a4bd5e6fc1e8dc8424b1772290db551/b9e4f/forest-bridge.png 590w,
-/static/6a4bd5e6fc1e8dc8424b1772290db551/f9b6a/forest-bridge.png 885w,
-/static/6a4bd5e6fc1e8dc8424b1772290db551/2d849/forest-bridge.png 1180w,
-/static/6a4bd5e6fc1e8dc8424b1772290db551/af534/forest-bridge.png 3840w&quot;
+        src=&quot;/gatsby-starter-blog/static/6a4bd5e6fc1e8dc8424b1772290db551/b9e4f/forest-bridge.png&quot;
+        srcset=&quot;/gatsby-starter-blog/static/6a4bd5e6fc1e8dc8424b1772290db551/cf440/forest-bridge.png 148w,
+/gatsby-starter-blog/static/6a4bd5e6fc1e8dc8424b1772290db551/d2d38/forest-bridge.png 295w,
+/gatsby-starter-blog/static/6a4bd5e6fc1e8dc8424b1772290db551/b9e4f/forest-bridge.png 590w,
+/gatsby-starter-blog/static/6a4bd5e6fc1e8dc8424b1772290db551/f9b6a/forest-bridge.png 885w,
+/gatsby-starter-blog/static/6a4bd5e6fc1e8dc8424b1772290db551/2d849/forest-bridge.png 1180w,
+/gatsby-starter-blog/static/6a4bd5e6fc1e8dc8424b1772290db551/af534/forest-bridge.png 3840w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
   &lt;/a&gt;
@@ -366,7 +366,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/cccf9907d9b6492d1cdf1b548f2dad1d/21d4e/20181204_153316.jpg&quot;
+    href=&quot;/gatsby-starter-blog/static/cccf9907d9b6492d1cdf1b548f2dad1d/21d4e/20181204_153316.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -380,13 +380,13 @@
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
         alt=&quot;village&quot;
         title=&quot;&quot;
-        src=&quot;/static/cccf9907d9b6492d1cdf1b548f2dad1d/c739e/20181204_153316.jpg&quot;
-        srcset=&quot;/static/cccf9907d9b6492d1cdf1b548f2dad1d/8ee9c/20181204_153316.jpg 148w,
-/static/cccf9907d9b6492d1cdf1b548f2dad1d/ebbe7/20181204_153316.jpg 295w,
-/static/cccf9907d9b6492d1cdf1b548f2dad1d/c739e/20181204_153316.jpg 590w,
-/static/cccf9907d9b6492d1cdf1b548f2dad1d/5413e/20181204_153316.jpg 885w,
-/static/cccf9907d9b6492d1cdf1b548f2dad1d/4efde/20181204_153316.jpg 1180w,
-/static/cccf9907d9b6492d1cdf1b548f2dad1d/21d4e/20181204_153316.jpg 5312w&quot;
+        src=&quot;/gatsby-starter-blog/static/cccf9907d9b6492d1cdf1b548f2dad1d/c739e/20181204_153316.jpg&quot;
+        srcset=&quot;/gatsby-starter-blog/static/cccf9907d9b6492d1cdf1b548f2dad1d/8ee9c/20181204_153316.jpg 148w,
+/gatsby-starter-blog/static/cccf9907d9b6492d1cdf1b548f2dad1d/ebbe7/20181204_153316.jpg 295w,
+/gatsby-starter-blog/static/cccf9907d9b6492d1cdf1b548f2dad1d/c739e/20181204_153316.jpg 590w,
+/gatsby-starter-blog/static/cccf9907d9b6492d1cdf1b548f2dad1d/5413e/20181204_153316.jpg 885w,
+/gatsby-starter-blog/static/cccf9907d9b6492d1cdf1b548f2dad1d/4efde/20181204_153316.jpg 1180w,
+/gatsby-starter-blog/static/cccf9907d9b6492d1cdf1b548f2dad1d/21d4e/20181204_153316.jpg 5312w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
   &lt;/a&gt;
@@ -399,7 +399,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/112ecec0062c5a23b0c290c19ef65cce/21d4e/20181204_153602.jpg&quot;
+    href=&quot;/gatsby-starter-blog/static/112ecec0062c5a23b0c290c19ef65cce/21d4e/20181204_153602.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -413,13 +413,13 @@
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
         alt=&quot;mother and daughter&quot;
         title=&quot;&quot;
-        src=&quot;/static/112ecec0062c5a23b0c290c19ef65cce/c739e/20181204_153602.jpg&quot;
-        srcset=&quot;/static/112ecec0062c5a23b0c290c19ef65cce/8ee9c/20181204_153602.jpg 148w,
-/static/112ecec0062c5a23b0c290c19ef65cce/ebbe7/20181204_153602.jpg 295w,
-/static/112ecec0062c5a23b0c290c19ef65cce/c739e/20181204_153602.jpg 590w,
-/static/112ecec0062c5a23b0c290c19ef65cce/5413e/20181204_153602.jpg 885w,
-/static/112ecec0062c5a23b0c290c19ef65cce/4efde/20181204_153602.jpg 1180w,
-/static/112ecec0062c5a23b0c290c19ef65cce/21d4e/20181204_153602.jpg 5312w&quot;
+        src=&quot;/gatsby-starter-blog/static/112ecec0062c5a23b0c290c19ef65cce/c739e/20181204_153602.jpg&quot;
+        srcset=&quot;/gatsby-starter-blog/static/112ecec0062c5a23b0c290c19ef65cce/8ee9c/20181204_153602.jpg 148w,
+/gatsby-starter-blog/static/112ecec0062c5a23b0c290c19ef65cce/ebbe7/20181204_153602.jpg 295w,
+/gatsby-starter-blog/static/112ecec0062c5a23b0c290c19ef65cce/c739e/20181204_153602.jpg 590w,
+/gatsby-starter-blog/static/112ecec0062c5a23b0c290c19ef65cce/5413e/20181204_153602.jpg 885w,
+/gatsby-starter-blog/static/112ecec0062c5a23b0c290c19ef65cce/4efde/20181204_153602.jpg 1180w,
+/gatsby-starter-blog/static/112ecec0062c5a23b0c290c19ef65cce/21d4e/20181204_153602.jpg 5312w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
   &lt;/a&gt;
@@ -433,7 +433,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/8076a0137250c57acba470211bf6eb7e/590ba/20181204_154704-min.jpg&quot;
+    href=&quot;/gatsby-starter-blog/static/8076a0137250c57acba470211bf6eb7e/590ba/20181204_154704-min.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -447,13 +447,13 @@
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
         alt=&quot;young woman&quot;
         title=&quot;&quot;
-        src=&quot;/static/8076a0137250c57acba470211bf6eb7e/c739e/20181204_154704-min.jpg&quot;
-        srcset=&quot;/static/8076a0137250c57acba470211bf6eb7e/8ee9c/20181204_154704-min.jpg 148w,
-/static/8076a0137250c57acba470211bf6eb7e/ebbe7/20181204_154704-min.jpg 295w,
-/static/8076a0137250c57acba470211bf6eb7e/c739e/20181204_154704-min.jpg 590w,
-/static/8076a0137250c57acba470211bf6eb7e/5413e/20181204_154704-min.jpg 885w,
-/static/8076a0137250c57acba470211bf6eb7e/4efde/20181204_154704-min.jpg 1180w,
-/static/8076a0137250c57acba470211bf6eb7e/590ba/20181204_154704-min.jpg 2592w&quot;
+        src=&quot;/gatsby-starter-blog/static/8076a0137250c57acba470211bf6eb7e/c739e/20181204_154704-min.jpg&quot;
+        srcset=&quot;/gatsby-starter-blog/static/8076a0137250c57acba470211bf6eb7e/8ee9c/20181204_154704-min.jpg 148w,
+/gatsby-starter-blog/static/8076a0137250c57acba470211bf6eb7e/ebbe7/20181204_154704-min.jpg 295w,
+/gatsby-starter-blog/static/8076a0137250c57acba470211bf6eb7e/c739e/20181204_154704-min.jpg 590w,
+/gatsby-starter-blog/static/8076a0137250c57acba470211bf6eb7e/5413e/20181204_154704-min.jpg 885w,
+/gatsby-starter-blog/static/8076a0137250c57acba470211bf6eb7e/4efde/20181204_154704-min.jpg 1180w,
+/gatsby-starter-blog/static/8076a0137250c57acba470211bf6eb7e/590ba/20181204_154704-min.jpg 2592w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
   &lt;/a&gt;
@@ -466,7 +466,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/e04ab1dd3e6580fd23b6998e37779d8e/0d566/20181204_155248.jpg&quot;
+    href=&quot;/gatsby-starter-blog/static/e04ab1dd3e6580fd23b6998e37779d8e/0d566/20181204_155248.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -480,13 +480,13 @@
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
         alt=&quot;me wearing rings&quot;
         title=&quot;&quot;
-        src=&quot;/static/e04ab1dd3e6580fd23b6998e37779d8e/c739e/20181204_155248.jpg&quot;
-        srcset=&quot;/static/e04ab1dd3e6580fd23b6998e37779d8e/8ee9c/20181204_155248.jpg 148w,
-/static/e04ab1dd3e6580fd23b6998e37779d8e/ebbe7/20181204_155248.jpg 295w,
-/static/e04ab1dd3e6580fd23b6998e37779d8e/c739e/20181204_155248.jpg 590w,
-/static/e04ab1dd3e6580fd23b6998e37779d8e/5413e/20181204_155248.jpg 885w,
-/static/e04ab1dd3e6580fd23b6998e37779d8e/4efde/20181204_155248.jpg 1180w,
-/static/e04ab1dd3e6580fd23b6998e37779d8e/0d566/20181204_155248.jpg 2988w&quot;
+        src=&quot;/gatsby-starter-blog/static/e04ab1dd3e6580fd23b6998e37779d8e/c739e/20181204_155248.jpg&quot;
+        srcset=&quot;/gatsby-starter-blog/static/e04ab1dd3e6580fd23b6998e37779d8e/8ee9c/20181204_155248.jpg 148w,
+/gatsby-starter-blog/static/e04ab1dd3e6580fd23b6998e37779d8e/ebbe7/20181204_155248.jpg 295w,
+/gatsby-starter-blog/static/e04ab1dd3e6580fd23b6998e37779d8e/c739e/20181204_155248.jpg 590w,
+/gatsby-starter-blog/static/e04ab1dd3e6580fd23b6998e37779d8e/5413e/20181204_155248.jpg 885w,
+/gatsby-starter-blog/static/e04ab1dd3e6580fd23b6998e37779d8e/4efde/20181204_155248.jpg 1180w,
+/gatsby-starter-blog/static/e04ab1dd3e6580fd23b6998e37779d8e/0d566/20181204_155248.jpg 2988w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
   &lt;/a&gt;
@@ -498,7 +498,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/4ffc74e318e144b96a270d71d679a440/21d4e/20181204_160646.jpg&quot;
+    href=&quot;/gatsby-starter-blog/static/4ffc74e318e144b96a270d71d679a440/21d4e/20181204_160646.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -512,13 +512,13 @@
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
         alt=&quot;solar panels&quot;
         title=&quot;&quot;
-        src=&quot;/static/4ffc74e318e144b96a270d71d679a440/c739e/20181204_160646.jpg&quot;
-        srcset=&quot;/static/4ffc74e318e144b96a270d71d679a440/8ee9c/20181204_160646.jpg 148w,
-/static/4ffc74e318e144b96a270d71d679a440/ebbe7/20181204_160646.jpg 295w,
-/static/4ffc74e318e144b96a270d71d679a440/c739e/20181204_160646.jpg 590w,
-/static/4ffc74e318e144b96a270d71d679a440/5413e/20181204_160646.jpg 885w,
-/static/4ffc74e318e144b96a270d71d679a440/4efde/20181204_160646.jpg 1180w,
-/static/4ffc74e318e144b96a270d71d679a440/21d4e/20181204_160646.jpg 5312w&quot;
+        src=&quot;/gatsby-starter-blog/static/4ffc74e318e144b96a270d71d679a440/c739e/20181204_160646.jpg&quot;
+        srcset=&quot;/gatsby-starter-blog/static/4ffc74e318e144b96a270d71d679a440/8ee9c/20181204_160646.jpg 148w,
+/gatsby-starter-blog/static/4ffc74e318e144b96a270d71d679a440/ebbe7/20181204_160646.jpg 295w,
+/gatsby-starter-blog/static/4ffc74e318e144b96a270d71d679a440/c739e/20181204_160646.jpg 590w,
+/gatsby-starter-blog/static/4ffc74e318e144b96a270d71d679a440/5413e/20181204_160646.jpg 885w,
+/gatsby-starter-blog/static/4ffc74e318e144b96a270d71d679a440/4efde/20181204_160646.jpg 1180w,
+/gatsby-starter-blog/static/4ffc74e318e144b96a270d71d679a440/21d4e/20181204_160646.jpg 5312w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
   &lt;/a&gt;
@@ -529,7 +529,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/5021cf4c423c20a67e6714bea9fd9e61/21d4e/20181204_160600.jpg&quot;
+    href=&quot;/gatsby-starter-blog/static/5021cf4c423c20a67e6714bea9fd9e61/21d4e/20181204_160600.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -543,13 +543,13 @@
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
         alt=&quot;solar panels2&quot;
         title=&quot;&quot;
-        src=&quot;/static/5021cf4c423c20a67e6714bea9fd9e61/c739e/20181204_160600.jpg&quot;
-        srcset=&quot;/static/5021cf4c423c20a67e6714bea9fd9e61/8ee9c/20181204_160600.jpg 148w,
-/static/5021cf4c423c20a67e6714bea9fd9e61/ebbe7/20181204_160600.jpg 295w,
-/static/5021cf4c423c20a67e6714bea9fd9e61/c739e/20181204_160600.jpg 590w,
-/static/5021cf4c423c20a67e6714bea9fd9e61/5413e/20181204_160600.jpg 885w,
-/static/5021cf4c423c20a67e6714bea9fd9e61/4efde/20181204_160600.jpg 1180w,
-/static/5021cf4c423c20a67e6714bea9fd9e61/21d4e/20181204_160600.jpg 5312w&quot;
+        src=&quot;/gatsby-starter-blog/static/5021cf4c423c20a67e6714bea9fd9e61/c739e/20181204_160600.jpg&quot;
+        srcset=&quot;/gatsby-starter-blog/static/5021cf4c423c20a67e6714bea9fd9e61/8ee9c/20181204_160600.jpg 148w,
+/gatsby-starter-blog/static/5021cf4c423c20a67e6714bea9fd9e61/ebbe7/20181204_160600.jpg 295w,
+/gatsby-starter-blog/static/5021cf4c423c20a67e6714bea9fd9e61/c739e/20181204_160600.jpg 590w,
+/gatsby-starter-blog/static/5021cf4c423c20a67e6714bea9fd9e61/5413e/20181204_160600.jpg 885w,
+/gatsby-starter-blog/static/5021cf4c423c20a67e6714bea9fd9e61/4efde/20181204_160600.jpg 1180w,
+/gatsby-starter-blog/static/5021cf4c423c20a67e6714bea9fd9e61/21d4e/20181204_160600.jpg 5312w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
   &lt;/a&gt;
@@ -561,7 +561,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/de8eb135c7b835bf751c2cf4e0024ca3/21d4e/20181204_161150.jpg&quot;
+    href=&quot;/gatsby-starter-blog/static/de8eb135c7b835bf751c2cf4e0024ca3/21d4e/20181204_161150.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -575,13 +575,13 @@
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
         alt=&quot;nature&quot;
         title=&quot;&quot;
-        src=&quot;/static/de8eb135c7b835bf751c2cf4e0024ca3/c739e/20181204_161150.jpg&quot;
-        srcset=&quot;/static/de8eb135c7b835bf751c2cf4e0024ca3/8ee9c/20181204_161150.jpg 148w,
-/static/de8eb135c7b835bf751c2cf4e0024ca3/ebbe7/20181204_161150.jpg 295w,
-/static/de8eb135c7b835bf751c2cf4e0024ca3/c739e/20181204_161150.jpg 590w,
-/static/de8eb135c7b835bf751c2cf4e0024ca3/5413e/20181204_161150.jpg 885w,
-/static/de8eb135c7b835bf751c2cf4e0024ca3/4efde/20181204_161150.jpg 1180w,
-/static/de8eb135c7b835bf751c2cf4e0024ca3/21d4e/20181204_161150.jpg 5312w&quot;
+        src=&quot;/gatsby-starter-blog/static/de8eb135c7b835bf751c2cf4e0024ca3/c739e/20181204_161150.jpg&quot;
+        srcset=&quot;/gatsby-starter-blog/static/de8eb135c7b835bf751c2cf4e0024ca3/8ee9c/20181204_161150.jpg 148w,
+/gatsby-starter-blog/static/de8eb135c7b835bf751c2cf4e0024ca3/ebbe7/20181204_161150.jpg 295w,
+/gatsby-starter-blog/static/de8eb135c7b835bf751c2cf4e0024ca3/c739e/20181204_161150.jpg 590w,
+/gatsby-starter-blog/static/de8eb135c7b835bf751c2cf4e0024ca3/5413e/20181204_161150.jpg 885w,
+/gatsby-starter-blog/static/de8eb135c7b835bf751c2cf4e0024ca3/4efde/20181204_161150.jpg 1180w,
+/gatsby-starter-blog/static/de8eb135c7b835bf751c2cf4e0024ca3/21d4e/20181204_161150.jpg 5312w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
   &lt;/a&gt;
@@ -615,7 +615,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/5f3ec7961605166c637ab8fd2bb5a6f4/2cac7/industrial-automation-1.jpg&quot;
+    href=&quot;/gatsby-starter-blog/static/5f3ec7961605166c637ab8fd2bb5a6f4/2cac7/industrial-automation-1.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -629,11 +629,11 @@
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
         alt=&quot;automation&quot;
         title=&quot;&quot;
-        src=&quot;/static/5f3ec7961605166c637ab8fd2bb5a6f4/c739e/industrial-automation-1.jpg&quot;
-        srcset=&quot;/static/5f3ec7961605166c637ab8fd2bb5a6f4/8ee9c/industrial-automation-1.jpg 148w,
-/static/5f3ec7961605166c637ab8fd2bb5a6f4/ebbe7/industrial-automation-1.jpg 295w,
-/static/5f3ec7961605166c637ab8fd2bb5a6f4/c739e/industrial-automation-1.jpg 590w,
-/static/5f3ec7961605166c637ab8fd2bb5a6f4/2cac7/industrial-automation-1.jpg 740w&quot;
+        src=&quot;/gatsby-starter-blog/static/5f3ec7961605166c637ab8fd2bb5a6f4/c739e/industrial-automation-1.jpg&quot;
+        srcset=&quot;/gatsby-starter-blog/static/5f3ec7961605166c637ab8fd2bb5a6f4/8ee9c/industrial-automation-1.jpg 148w,
+/gatsby-starter-blog/static/5f3ec7961605166c637ab8fd2bb5a6f4/ebbe7/industrial-automation-1.jpg 295w,
+/gatsby-starter-blog/static/5f3ec7961605166c637ab8fd2bb5a6f4/c739e/industrial-automation-1.jpg 590w,
+/gatsby-starter-blog/static/5f3ec7961605166c637ab8fd2bb5a6f4/2cac7/industrial-automation-1.jpg 740w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
   &lt;/a&gt;
@@ -769,7 +769,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/e3259e8b14a25ebf33bb67735146898b/da994/monster_eating_garbage.jpg&quot;
+    href=&quot;/gatsby-starter-blog/static/e3259e8b14a25ebf33bb67735146898b/da994/monster_eating_garbage.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -783,10 +783,10 @@
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
         alt=&quot;monster eating garbage&quot;
         title=&quot;&quot;
-        src=&quot;/static/e3259e8b14a25ebf33bb67735146898b/da994/monster_eating_garbage.jpg&quot;
-        srcset=&quot;/static/e3259e8b14a25ebf33bb67735146898b/8ee9c/monster_eating_garbage.jpg 148w,
-/static/e3259e8b14a25ebf33bb67735146898b/ebbe7/monster_eating_garbage.jpg 295w,
-/static/e3259e8b14a25ebf33bb67735146898b/da994/monster_eating_garbage.jpg 421w&quot;
+        src=&quot;/gatsby-starter-blog/static/e3259e8b14a25ebf33bb67735146898b/da994/monster_eating_garbage.jpg&quot;
+        srcset=&quot;/gatsby-starter-blog/static/e3259e8b14a25ebf33bb67735146898b/8ee9c/monster_eating_garbage.jpg 148w,
+/gatsby-starter-blog/static/e3259e8b14a25ebf33bb67735146898b/ebbe7/monster_eating_garbage.jpg 295w,
+/gatsby-starter-blog/static/e3259e8b14a25ebf33bb67735146898b/da994/monster_eating_garbage.jpg 421w&quot;
         sizes=&quot;(max-width: 421px) 100vw, 421px&quot;
       /&gt;
   &lt;/a&gt;
@@ -799,7 +799,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/127cd8de39ab4b8dee66957cd9ef70a6/c7805/monster_eating_money.png&quot;
+    href=&quot;/gatsby-starter-blog/static/127cd8de39ab4b8dee66957cd9ef70a6/c7805/monster_eating_money.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -813,10 +813,10 @@
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
         alt=&quot;monster eating money&quot;
         title=&quot;&quot;
-        src=&quot;/static/127cd8de39ab4b8dee66957cd9ef70a6/c7805/monster_eating_money.png&quot;
-        srcset=&quot;/static/127cd8de39ab4b8dee66957cd9ef70a6/cf440/monster_eating_money.png 148w,
-/static/127cd8de39ab4b8dee66957cd9ef70a6/d2d38/monster_eating_money.png 295w,
-/static/127cd8de39ab4b8dee66957cd9ef70a6/c7805/monster_eating_money.png 400w&quot;
+        src=&quot;/gatsby-starter-blog/static/127cd8de39ab4b8dee66957cd9ef70a6/c7805/monster_eating_money.png&quot;
+        srcset=&quot;/gatsby-starter-blog/static/127cd8de39ab4b8dee66957cd9ef70a6/cf440/monster_eating_money.png 148w,
+/gatsby-starter-blog/static/127cd8de39ab4b8dee66957cd9ef70a6/d2d38/monster_eating_money.png 295w,
+/gatsby-starter-blog/static/127cd8de39ab4b8dee66957cd9ef70a6/c7805/monster_eating_money.png 400w&quot;
         sizes=&quot;(max-width: 400px) 100vw, 400px&quot;
       /&gt;
   &lt;/a&gt;
@@ -850,7 +850,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/7a9957d251558ebd2e0f66e79b132faa/21d4e/20181129_164118.jpg&quot;
+    href=&quot;/gatsby-starter-blog/static/7a9957d251558ebd2e0f66e79b132faa/21d4e/20181129_164118.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -864,13 +864,13 @@
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
         alt=&quot;mountain&quot;
         title=&quot;&quot;
-        src=&quot;/static/7a9957d251558ebd2e0f66e79b132faa/c739e/20181129_164118.jpg&quot;
-        srcset=&quot;/static/7a9957d251558ebd2e0f66e79b132faa/8ee9c/20181129_164118.jpg 148w,
-/static/7a9957d251558ebd2e0f66e79b132faa/ebbe7/20181129_164118.jpg 295w,
-/static/7a9957d251558ebd2e0f66e79b132faa/c739e/20181129_164118.jpg 590w,
-/static/7a9957d251558ebd2e0f66e79b132faa/5413e/20181129_164118.jpg 885w,
-/static/7a9957d251558ebd2e0f66e79b132faa/4efde/20181129_164118.jpg 1180w,
-/static/7a9957d251558ebd2e0f66e79b132faa/21d4e/20181129_164118.jpg 5312w&quot;
+        src=&quot;/gatsby-starter-blog/static/7a9957d251558ebd2e0f66e79b132faa/c739e/20181129_164118.jpg&quot;
+        srcset=&quot;/gatsby-starter-blog/static/7a9957d251558ebd2e0f66e79b132faa/8ee9c/20181129_164118.jpg 148w,
+/gatsby-starter-blog/static/7a9957d251558ebd2e0f66e79b132faa/ebbe7/20181129_164118.jpg 295w,
+/gatsby-starter-blog/static/7a9957d251558ebd2e0f66e79b132faa/c739e/20181129_164118.jpg 590w,
+/gatsby-starter-blog/static/7a9957d251558ebd2e0f66e79b132faa/5413e/20181129_164118.jpg 885w,
+/gatsby-starter-blog/static/7a9957d251558ebd2e0f66e79b132faa/4efde/20181129_164118.jpg 1180w,
+/gatsby-starter-blog/static/7a9957d251558ebd2e0f66e79b132faa/21d4e/20181129_164118.jpg 5312w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
   &lt;/a&gt;
@@ -882,7 +882,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/ffe0b15c0d4c215cf2b3d98a51a8d43e/21d4e/20181128_172531.jpg&quot;
+    href=&quot;/gatsby-starter-blog/static/ffe0b15c0d4c215cf2b3d98a51a8d43e/21d4e/20181128_172531.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -896,13 +896,13 @@
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
         alt=&quot;sunset&quot;
         title=&quot;&quot;
-        src=&quot;/static/ffe0b15c0d4c215cf2b3d98a51a8d43e/c739e/20181128_172531.jpg&quot;
-        srcset=&quot;/static/ffe0b15c0d4c215cf2b3d98a51a8d43e/8ee9c/20181128_172531.jpg 148w,
-/static/ffe0b15c0d4c215cf2b3d98a51a8d43e/ebbe7/20181128_172531.jpg 295w,
-/static/ffe0b15c0d4c215cf2b3d98a51a8d43e/c739e/20181128_172531.jpg 590w,
-/static/ffe0b15c0d4c215cf2b3d98a51a8d43e/5413e/20181128_172531.jpg 885w,
-/static/ffe0b15c0d4c215cf2b3d98a51a8d43e/4efde/20181128_172531.jpg 1180w,
-/static/ffe0b15c0d4c215cf2b3d98a51a8d43e/21d4e/20181128_172531.jpg 5312w&quot;
+        src=&quot;/gatsby-starter-blog/static/ffe0b15c0d4c215cf2b3d98a51a8d43e/c739e/20181128_172531.jpg&quot;
+        srcset=&quot;/gatsby-starter-blog/static/ffe0b15c0d4c215cf2b3d98a51a8d43e/8ee9c/20181128_172531.jpg 148w,
+/gatsby-starter-blog/static/ffe0b15c0d4c215cf2b3d98a51a8d43e/ebbe7/20181128_172531.jpg 295w,
+/gatsby-starter-blog/static/ffe0b15c0d4c215cf2b3d98a51a8d43e/c739e/20181128_172531.jpg 590w,
+/gatsby-starter-blog/static/ffe0b15c0d4c215cf2b3d98a51a8d43e/5413e/20181128_172531.jpg 885w,
+/gatsby-starter-blog/static/ffe0b15c0d4c215cf2b3d98a51a8d43e/4efde/20181128_172531.jpg 1180w,
+/gatsby-starter-blog/static/ffe0b15c0d4c215cf2b3d98a51a8d43e/21d4e/20181128_172531.jpg 5312w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
   &lt;/a&gt;
@@ -943,7 +943,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/94da0a4a5f7c7e1bcf34a5a4f6a37fba/e1d7b/BadPosture.jpg&quot;
+    href=&quot;/gatsby-starter-blog/static/94da0a4a5f7c7e1bcf34a5a4f6a37fba/e1d7b/BadPosture.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -957,11 +957,11 @@
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Bad Posture&quot;
         title=&quot;&quot;
-        src=&quot;/static/94da0a4a5f7c7e1bcf34a5a4f6a37fba/c739e/BadPosture.jpg&quot;
-        srcset=&quot;/static/94da0a4a5f7c7e1bcf34a5a4f6a37fba/8ee9c/BadPosture.jpg 148w,
-/static/94da0a4a5f7c7e1bcf34a5a4f6a37fba/ebbe7/BadPosture.jpg 295w,
-/static/94da0a4a5f7c7e1bcf34a5a4f6a37fba/c739e/BadPosture.jpg 590w,
-/static/94da0a4a5f7c7e1bcf34a5a4f6a37fba/e1d7b/BadPosture.jpg 620w&quot;
+        src=&quot;/gatsby-starter-blog/static/94da0a4a5f7c7e1bcf34a5a4f6a37fba/c739e/BadPosture.jpg&quot;
+        srcset=&quot;/gatsby-starter-blog/static/94da0a4a5f7c7e1bcf34a5a4f6a37fba/8ee9c/BadPosture.jpg 148w,
+/gatsby-starter-blog/static/94da0a4a5f7c7e1bcf34a5a4f6a37fba/ebbe7/BadPosture.jpg 295w,
+/gatsby-starter-blog/static/94da0a4a5f7c7e1bcf34a5a4f6a37fba/c739e/BadPosture.jpg 590w,
+/gatsby-starter-blog/static/94da0a4a5f7c7e1bcf34a5a4f6a37fba/e1d7b/BadPosture.jpg 620w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
   &lt;/a&gt;
@@ -1137,13 +1137,7 @@
 &lt;p&gt;&lt;strong&gt;UPDATE&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Since I wrote this article, Apple released a new Macbook Pro with better specs. But it’s still got that awful touchbar.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Completing things is addicting]]></title><description><![CDATA[I wasn’t planning to write so much today. I would just force myself to start writing one article, and then seeing the unfinished article…]]></description><link>https://www.jeremyabroad.com/completion-addiction/</link><guid isPermaLink="false">https://www.jeremyabroad.com/completion-addiction/</guid><pubDate>Thu, 27 Sep 2018 19:24:03 GMT</pubDate><content:encoded>&lt;p&gt;I wasn’t planning to write so much today. I would just force myself to start writing one article, and then seeing the unfinished article would make me want to finish it, and then I’d get an idea for another article that I’d want to write. This process continued itself until I realized that I’d finished 6 articles (now 7).&lt;/p&gt;
 &lt;p&gt;This is a textbook example of a &lt;strong&gt;positive feedback loop&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;A &lt;a href=&quot;/habits&quot;&gt;good process&lt;/a&gt; will create positive feedback loops in your life, which in turn reinforce the process and automate you towards your goals.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Reactive Dopamine-Addicted State]]></title><description><![CDATA[Reactive State: The dopamine-addicted state of living in pure reaction.The Reactive State is what I call that dopamine-addicted zombie-like…]]></description><link>https://www.jeremyabroad.com/reactive-dopamine-state/</link><guid isPermaLink="false">https://www.jeremyabroad.com/reactive-dopamine-state/</guid><pubDate>Thu, 27 Sep 2018 17:29:03 GMT</pubDate><content:encoded>&lt;blockquote&gt;
-&lt;p&gt;Reactive State: The dopamine-addicted state of living in pure reaction.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;The &lt;strong&gt;Reactive State&lt;/strong&gt; is what I call that dopamine-addicted zombie-like state where you’re &lt;strong&gt;living in reaction&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;This might manifest itself in constantly (or even desperately) checking your phone for DM notifications, mindlessly scrolling through your Facebook/Instagram/Reddit feed, and being preoccupied with what other people think about you.&lt;/p&gt;
-&lt;p&gt;Rather than creating your own reality and carving your own path through life, you’re living in reaction to other peoples’ reality. You’re living on the sidelines, waiting for somebody better than you to invite you into their lives and fix all of your problems.&lt;/p&gt;
-&lt;p&gt;This is an awful state to be in, and there is absolutely no benefit to being in this state. Everyone should strive to eliminate any resemblance of this state from their lives.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Stop Demanding Perfection From Yourself]]></title><description><![CDATA[Perfectionism is one of the greatest sources of procrastination. Our fear of things not being perfect prevents us from completing anything…]]></description><link>https://www.jeremyabroad.com/stop-demanding-perfection/</link><guid isPermaLink="false">https://www.jeremyabroad.com/stop-demanding-perfection/</guid><pubDate>Thu, 27 Sep 2018 17:29:03 GMT</pubDate><content:encoded>&lt;p&gt;Perfectionism is one of the greatest sources of procrastination. Our fear of things not being perfect prevents us from completing anything, or even from trying in the first place.&lt;/p&gt;
+&lt;p&gt;A &lt;a href=&quot;/gatsby-starter-blog/habits&quot;&gt;good process&lt;/a&gt; will create positive feedback loops in your life, which in turn reinforce the process and automate you towards your goals.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Stop Demanding Perfection From Yourself]]></title><description><![CDATA[Perfectionism is one of the greatest sources of procrastination. Our fear of things not being perfect prevents us from completing anything…]]></description><link>https://www.jeremyabroad.com/stop-demanding-perfection/</link><guid isPermaLink="false">https://www.jeremyabroad.com/stop-demanding-perfection/</guid><pubDate>Thu, 27 Sep 2018 17:29:03 GMT</pubDate><content:encoded>&lt;p&gt;Perfectionism is one of the greatest sources of procrastination. Our fear of things not being perfect prevents us from completing anything, or even from trying in the first place.&lt;/p&gt;
 &lt;p&gt;I was 100% guilty of this.&lt;/p&gt;
 &lt;p&gt;Despite spending hundreds, maybe thousands of hours producing electronic music in high school and college, I never actually really completed anything or had anything to show for it other than hundreds of unfinished projects. I could show you a ton of sick 4-16 bar loops, but not a completed song.&lt;/p&gt;
 &lt;p&gt;I’ve been putting off videomaking for a long time because the videos I make have to be perfect. I’ve been meaning to make videos like “How to become a software engineer without a CS degree” and “How to go from $70k/yr to $140k/yr salary in 2 years” and “The story of my life” and “Which camera should I get for video?” for years now, but I never made them because they just have to be perfect.&lt;/p&gt;
@@ -1153,13 +1147,19 @@
 &lt;p&gt;I wrote 6 articles today. I dreaded writing the first articles because I didn’t feel like I was in the right headspace to be able to write them to the standard of quality that I deem adequate. I haven’t written or read a book in forever, and I don’t feel articulate at all.&lt;/p&gt;
 &lt;p&gt;But I forced myself to write them anyways, and feel much better after having done so because I no longer feel like the lazy unproductive decaying piece of sh!t that I felt like before.&lt;/p&gt;
 &lt;p&gt;Are they amazing articles that I’m completely satisfied with? No. But it’s a start, and I can always edit them later. Right now lack of quality isn’t my biggest bottleneck or most pressing need, I need to make my damn website and get in the habit of writing and getting stuff done again.&lt;/p&gt;
-&lt;p&gt;6 half-assed articles beats 6 perfect ideas trapped in your head that nobody will ever see.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[You are a product of your habits]]></title><description><![CDATA[You are a product of your habits.Our brains are naturally lazy and seek what’s easy, the past of least resistance - the comfort zone.It’s…]]></description><link>https://www.jeremyabroad.com/habits/</link><guid isPermaLink="false">https://www.jeremyabroad.com/habits/</guid><pubDate>Thu, 27 Sep 2018 17:24:03 GMT</pubDate><content:encoded>&lt;p&gt;You are a product of your habits.&lt;/p&gt;
+&lt;p&gt;6 half-assed articles beats 6 perfect ideas trapped in your head that nobody will ever see.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Reactive Dopamine-Addicted State]]></title><description><![CDATA[Reactive State: The dopamine-addicted state of living in pure reaction.The Reactive State is what I call that dopamine-addicted zombie-like…]]></description><link>https://www.jeremyabroad.com/reactive-dopamine-state/</link><guid isPermaLink="false">https://www.jeremyabroad.com/reactive-dopamine-state/</guid><pubDate>Thu, 27 Sep 2018 17:29:03 GMT</pubDate><content:encoded>&lt;blockquote&gt;
+&lt;p&gt;Reactive State: The dopamine-addicted state of living in pure reaction.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The &lt;strong&gt;Reactive State&lt;/strong&gt; is what I call that dopamine-addicted zombie-like state where you’re &lt;strong&gt;living in reaction&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;This might manifest itself in constantly (or even desperately) checking your phone for DM notifications, mindlessly scrolling through your Facebook/Instagram/Reddit feed, and being preoccupied with what other people think about you.&lt;/p&gt;
+&lt;p&gt;Rather than creating your own reality and carving your own path through life, you’re living in reaction to other peoples’ reality. You’re living on the sidelines, waiting for somebody better than you to invite you into their lives and fix all of your problems.&lt;/p&gt;
+&lt;p&gt;This is an awful state to be in, and there is absolutely no benefit to being in this state. Everyone should strive to eliminate any resemblance of this state from their lives.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[You are a product of your habits]]></title><description><![CDATA[You are a product of your habits.Our brains are naturally lazy and seek what’s easy, the past of least resistance - the comfort zone.It’s…]]></description><link>https://www.jeremyabroad.com/habits/</link><guid isPermaLink="false">https://www.jeremyabroad.com/habits/</guid><pubDate>Thu, 27 Sep 2018 17:24:03 GMT</pubDate><content:encoded>&lt;p&gt;You are a product of your habits.&lt;/p&gt;
 &lt;p&gt;Our brains are naturally lazy and seek what’s easy, the past of least resistance - the comfort zone.&lt;/p&gt;
 &lt;p&gt;It’s harder to change a habit than it is to change your routine.&lt;/p&gt;
 &lt;p&gt;Therefore if you have the right habits in place, then achieving your goals will be as inevitable as the fact that a pilot on autopilot will inevitably reach his/her destination (barring any unforeseeable emergencies).&lt;/p&gt;
 &lt;p&gt;Use your brain’s laziness to its advantage and develop the right habits most conducive to your success.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Daily Routine&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A big part of this is developing a productive &lt;a href=&quot;/ideal-work-schedule&quot;&gt;daily routine&lt;/a&gt;. With the right routine, your life is essentially automated towards whatever your routine optimizes for.&lt;/p&gt;
+&lt;p&gt;A big part of this is developing a productive &lt;a href=&quot;/gatsby-starter-blog/ideal-work-schedule&quot;&gt;daily routine&lt;/a&gt;. With the right routine, your life is essentially automated towards whatever your routine optimizes for.&lt;/p&gt;
 &lt;p&gt;Figure out the routine that’s optimal for you in bringing you to your goals, and implement it. Eventually it’ll become a habit. &lt;/p&gt;
 &lt;p&gt;At this point it will be harder for you to not reach your goals than it will be for you to reach them.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Communal Living]]></title><description><![CDATA[I think that communal living is the ideal way to live for anyone not in a serious committed relationship.I’ve spent the last 8 months living…]]></description><link>https://www.jeremyabroad.com/communal-living/</link><guid isPermaLink="false">https://www.jeremyabroad.com/communal-living/</guid><pubDate>Thu, 27 Sep 2018 16:12:03 GMT</pubDate><content:encoded>&lt;p&gt;I think that communal living is the ideal way to live for anyone not in a serious committed relationship.&lt;/p&gt;
 &lt;p&gt;I’ve spent the last 8 months living in hostels, hotels, and AirBnBs, and have come to the conclusion that hostels are the best - both for happiness and productivity.&lt;/p&gt;
@@ -1185,8 +1185,8 @@
 &lt;p&gt;&lt;strong&gt;18:30-19:30:&lt;/strong&gt; Dinner, preferably with friend&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;19:30-01:00:&lt;/strong&gt; Do whatever you want. Now is the time to respond to all those messages and talk with your friends, hang out, do something random, or even work if you feel inspired. This drowsy state is actually a great time to be creative.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;01:00-1:45:&lt;/strong&gt; Get ready to go to sleep. Reading a book is ideal, but I’m pretty awful at doing that lately.&lt;/p&gt;
-&lt;p&gt;One doesn’t need to be a Nazi about being on schedule, but having some semblance of a routine is important for being productive. The reason is because we are a &lt;a href=&quot;/habits&quot;&gt;product of our habits&lt;/a&gt;. The less energy you have to consciously devote to wasteful questions like “what should I do next?”, the more energy you can devote to getting things done.&lt;/p&gt;
-&lt;p&gt;One of the most important things is to start your morning off on the right foot, because your morning sets the tone for the rest of your day. I recommend avoiding checking your phone, messaging apps, and social media in the morning because it can distract you and pull you down into that unproductive &lt;a href=&quot;/reactive-dopamine-state&quot;&gt;reactive dopamine-addicted state&lt;/a&gt;. Once you fall down that hole it’s &lt;a href=&quot;/habits&quot;&gt;hard to climb out.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;One doesn’t need to be a Nazi about being on schedule, but having some semblance of a routine is important for being productive. The reason is because we are a &lt;a href=&quot;/gatsby-starter-blog/habits&quot;&gt;product of our habits&lt;/a&gt;. The less energy you have to consciously devote to wasteful questions like “what should I do next?”, the more energy you can devote to getting things done.&lt;/p&gt;
+&lt;p&gt;One of the most important things is to start your morning off on the right foot, because your morning sets the tone for the rest of your day. I recommend avoiding checking your phone, messaging apps, and social media in the morning because it can distract you and pull you down into that unproductive &lt;a href=&quot;/gatsby-starter-blog/reactive-dopamine-state&quot;&gt;reactive dopamine-addicted state&lt;/a&gt;. Once you fall down that hole it’s &lt;a href=&quot;/gatsby-starter-blog/habits&quot;&gt;hard to climb out.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The morning is also when most people are at full mental capacity to get work done. Don’t waste this.&lt;/p&gt;
 &lt;p&gt;I’ve noticed that the morning seems to be the best time to knock out logical tasks that are most “unpleasant” (eg. coding something difficult but not fun), whereas later afternoon is better for more creative tasks that are enjoyable (eg. writing). I’m still forming my thoughts on this though, so don’t take it as gospel. Will update as I update my views.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Foreigner's Impression of NYC]]></title><description><![CDATA[I was just speaking to a South African in the hostel common area who’d spent 8 years living in London. When I told him I’d been living in…]]></description><link>https://www.jeremyabroad.com/foreigners-impression-nyc/</link><guid isPermaLink="false">https://www.jeremyabroad.com/foreigners-impression-nyc/</guid><pubDate>Thu, 27 Sep 2018 14:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I was just speaking to a South African in the hostel common area who’d spent 8 years living in London. When I told him I’d been living in NYC, his reaction was “oh wow. I don’t know how anyone lives there, it’s too much ‘city’ for me.”&lt;/p&gt;
 &lt;p&gt;This actually seems to be the most common reaction I get when I’m abroad. And after leaving NYC and seeing many other cities, I can see why.&lt;/p&gt;
@@ -1228,7 +1228,7 @@
 &lt;p&gt;I do think that Kiev is probably the best of the three to make a base though simply because it’s by far the largest, being the capital city. I’ve generally found it easier to make friends in larger cities vs. smaller cities.&lt;/p&gt;
 &lt;p&gt;Well actually I do think that being too large can be a detriment in a way (eg. NYC), so maybe there is a happy medium somewhere, and Kiev seems to strike the perfect balance between being big enough to be interesting and cosmopolitan, yet not so big such that you feel like an expendable cog in a machine.&lt;/p&gt;
 &lt;h3&gt;How much longer will I stay?&lt;/h3&gt;
-&lt;p&gt;Now that it’s &lt;a href=&quot;/cold-weather&quot;&gt;getting cold&lt;/a&gt;, I might be heading out soon. But I’m in no rush to leave. I’ll play it week by week, and as soon as I’m satisfied with my work output, I’ll be on my way. But if it weren’t for the cold weather, I’d have no desire to leave. I really do like it here in Kiev.&lt;/p&gt;
+&lt;p&gt;Now that it’s &lt;a href=&quot;/gatsby-starter-blog/cold-weather&quot;&gt;getting cold&lt;/a&gt;, I might be heading out soon. But I’m in no rush to leave. I’ll play it week by week, and as soon as I’m satisfied with my work output, I’ll be on my way. But if it weren’t for the cold weather, I’d have no desire to leave. I really do like it here in Kiev.&lt;/p&gt;
 &lt;p&gt;I don’t want to paint Kiev as some perfect city, it’s just a city and a country that I really want to get to know because it’s so damn different, and a country I could potentially see myself spending a lot of time in. &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hostels are Amazing (1 week of hostel life in Kiev)]]></title><description><![CDATA[Kiev, UkraineAfter spending a couple weeks in AirBnBs, I was bored and struggling to get work done, so I booked a dorm in a hostel for a…]]></description><link>https://www.jeremyabroad.com/hostels/</link><guid isPermaLink="false">https://www.jeremyabroad.com/hostels/</guid><pubDate>Wed, 26 Sep 2018 14:12:03 GMT</pubDate><content:encoded>&lt;p&gt;Kiev, Ukraine&lt;/p&gt;
 &lt;p&gt;After spending a couple weeks in AirBnBs, I was bored and struggling to get work done, so I booked a dorm in a hostel for a couple days. I ended up extending my stay for another week. Not only did I meet many amazing people, but I was actually more productive. Hostels will now be my default residence of choice unless there’s a really good reason I need my own place.&lt;/p&gt;
 &lt;h4&gt;Checking in&lt;/h4&gt;
@@ -1265,7 +1265,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/ec48578cfd4ae42f2fbd6a6130737113/21d4e/jdiculous-tokyo.jpg&quot;
+    href=&quot;/gatsby-starter-blog/static/ec48578cfd4ae42f2fbd6a6130737113/21d4e/jdiculous-tokyo.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1279,19 +1279,19 @@
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
         alt=&quot;JDiculous in Tokyo&quot;
         title=&quot;&quot;
-        src=&quot;/static/ec48578cfd4ae42f2fbd6a6130737113/c739e/jdiculous-tokyo.jpg&quot;
-        srcset=&quot;/static/ec48578cfd4ae42f2fbd6a6130737113/8ee9c/jdiculous-tokyo.jpg 148w,
-/static/ec48578cfd4ae42f2fbd6a6130737113/ebbe7/jdiculous-tokyo.jpg 295w,
-/static/ec48578cfd4ae42f2fbd6a6130737113/c739e/jdiculous-tokyo.jpg 590w,
-/static/ec48578cfd4ae42f2fbd6a6130737113/5413e/jdiculous-tokyo.jpg 885w,
-/static/ec48578cfd4ae42f2fbd6a6130737113/4efde/jdiculous-tokyo.jpg 1180w,
-/static/ec48578cfd4ae42f2fbd6a6130737113/21d4e/jdiculous-tokyo.jpg 5312w&quot;
+        src=&quot;/gatsby-starter-blog/static/ec48578cfd4ae42f2fbd6a6130737113/c739e/jdiculous-tokyo.jpg&quot;
+        srcset=&quot;/gatsby-starter-blog/static/ec48578cfd4ae42f2fbd6a6130737113/8ee9c/jdiculous-tokyo.jpg 148w,
+/gatsby-starter-blog/static/ec48578cfd4ae42f2fbd6a6130737113/ebbe7/jdiculous-tokyo.jpg 295w,
+/gatsby-starter-blog/static/ec48578cfd4ae42f2fbd6a6130737113/c739e/jdiculous-tokyo.jpg 590w,
+/gatsby-starter-blog/static/ec48578cfd4ae42f2fbd6a6130737113/5413e/jdiculous-tokyo.jpg 885w,
+/gatsby-starter-blog/static/ec48578cfd4ae42f2fbd6a6130737113/4efde/jdiculous-tokyo.jpg 1180w,
+/gatsby-starter-blog/static/ec48578cfd4ae42f2fbd6a6130737113/21d4e/jdiculous-tokyo.jpg 5312w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;I worked as a Full-Stack Web Engineer for 3 years in NYC - working my way up to Lead Engineer at an ecommerce company (&lt;a href=&quot;https://www.jbernier.com/resume.pdf&quot;&gt;resume&lt;/a&gt;) - before leaving to &lt;a href=&quot;/places-ive-been&quot;&gt;travel the world&lt;/a&gt;. I started in South America, spent 4 months in Europe, and then moved to Asia.&lt;/p&gt;
-&lt;p&gt;I’ve always been one to naturally question everything - starting in &lt;a href=&quot;/school-crime-humanity/&quot;&gt;school&lt;/a&gt; when I’d wonder why we were all forced to complete hours of busywork and &lt;a href=&quot;/lectures-suck/&quot;&gt;learn&lt;/a&gt; this random stuff despite the fact that we’d forget most of it after the exam - to &lt;a href=&quot;/why-jobs-suck-perception-management&quot;&gt;work&lt;/a&gt; where I’d wonder why &lt;a href=&quot;/9-5-jobs/&quot;&gt;everyone has to sit there in the office for 8 hours&lt;/a&gt; if one can work &lt;a href=&quot;/how-to-work-efficiently/&quot;&gt;twice as productively&lt;/a&gt; and finish everything in 4 while &lt;a href=&quot;/remote-work&quot;&gt;working from home&lt;/a&gt; and saving the hour-long roundtrip commute (hint: &lt;a href=&quot;/why-jobs-suck-perception-management/&quot;&gt;perception is everything&lt;/a&gt;). Or why we preach the superiority of democracy in our government, yet have no issues with oligarchy in our workplace. Or the fact that we must still work 40+ hour work weeks despite the fact that technology/automation has advanced to a point where it is not necessary to sustaining our standard of living.&lt;/p&gt;
+&lt;p&gt;I worked as a Full-Stack Web Engineer for 3 years in NYC - working my way up to Lead Engineer at an ecommerce company (&lt;a href=&quot;https://www.jbernier.com/resume.pdf&quot;&gt;resume&lt;/a&gt;) - before leaving to &lt;a href=&quot;/gatsby-starter-blog/places-ive-been&quot;&gt;travel the world&lt;/a&gt;. I started in South America, spent 4 months in Europe, and then moved to Asia.&lt;/p&gt;
+&lt;p&gt;I’ve always been one to naturally question everything - starting in &lt;a href=&quot;/gatsby-starter-blog/school-crime-humanity/&quot;&gt;school&lt;/a&gt; when I’d wonder why we were all forced to complete hours of busywork and &lt;a href=&quot;/gatsby-starter-blog/lectures-suck/&quot;&gt;learn&lt;/a&gt; this random stuff despite the fact that we’d forget most of it after the exam - to &lt;a href=&quot;/gatsby-starter-blog/why-jobs-suck-perception-management&quot;&gt;work&lt;/a&gt; where I’d wonder why &lt;a href=&quot;/gatsby-starter-blog/9-5-jobs/&quot;&gt;everyone has to sit there in the office for 8 hours&lt;/a&gt; if one can work &lt;a href=&quot;/gatsby-starter-blog/how-to-work-efficiently/&quot;&gt;twice as productively&lt;/a&gt; and finish everything in 4 while &lt;a href=&quot;/gatsby-starter-blog/remote-work&quot;&gt;working from home&lt;/a&gt; and saving the hour-long roundtrip commute (hint: &lt;a href=&quot;/gatsby-starter-blog/why-jobs-suck-perception-management/&quot;&gt;perception is everything&lt;/a&gt;). Or why we preach the superiority of democracy in our government, yet have no issues with oligarchy in our workplace. Or the fact that we must still work 40+ hour work weeks despite the fact that technology/automation has advanced to a point where it is not necessary to sustaining our standard of living.&lt;/p&gt;
 &lt;p&gt;Most people just accept things and move on. I’d imagine that’s what most Germans did during the Holocaust, or what most Americans did during slavery. To me it never felt like a morally defensible thing to idly stand by in the face of injustice. But since politics is taboo in today’s labor market, I understand why from a selfish perspective it makes more sense to keep silent.&lt;/p&gt;
 &lt;p&gt;This blog is like a toned down version of the thoughts going on in my head. Until I’m financially independent enough to not have to care whether I’m employable, I’ll keep it “PG-13”.&lt;/p&gt;
 &lt;p&gt;On a more personal level, I grew up always being the shyest kid in my class, but I hated being shy and did everything I could to overcome it. So naturally I have an interest in personal development.&lt;/p&gt;
@@ -1410,7 +1410,7 @@
 &lt;p&gt;How can we make the game more fair without eliminating property rights?&lt;/p&gt;
 &lt;p&gt;We can give each player $200 every time they pass “Go”.&lt;/p&gt;
 &lt;p&gt;Where does this $200 come from? It can come from taxes on unearned income (eg. land value tax), negative externalities (Pigovian taxes), or perhaps even out of thin air from the bank (QE for the people, Modern Monetary Theory).&lt;/p&gt;
-&lt;p&gt;This $200 is &lt;a href=&quot;/why-we-need-basic-income&quot;&gt;universal basic income.&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Why most jobs suck - Perception-based Management]]></title><description><![CDATA[When I first started working, I had this idealistic vision that I would be judged based on my results and my results alone. In certain…]]></description><link>https://www.jeremyabroad.com/why-jobs-suck-perception-management/</link><guid isPermaLink="false">https://www.jeremyabroad.com/why-jobs-suck-perception-management/</guid><pubDate>Sat, 09 Jun 2018 12:00:03 GMT</pubDate><content:encoded>&lt;p&gt;When I first started working, I had this idealistic vision that I would be judged based on my results and my results alone. In certain professions where one’s output can be easily quantified like sales and trading, this is indeed the case. But in most other professions where one’s contribution is not as easy to measure, one is valued based on an arcane combination of politics and lazy proxy metrics.&lt;/p&gt;
+&lt;p&gt;This $200 is &lt;a href=&quot;/gatsby-starter-blog/why-we-need-basic-income&quot;&gt;universal basic income.&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Why most jobs suck - Perception-based Management]]></title><description><![CDATA[When I first started working, I had this idealistic vision that I would be judged based on my results and my results alone. In certain…]]></description><link>https://www.jeremyabroad.com/why-jobs-suck-perception-management/</link><guid isPermaLink="false">https://www.jeremyabroad.com/why-jobs-suck-perception-management/</guid><pubDate>Sat, 09 Jun 2018 12:00:03 GMT</pubDate><content:encoded>&lt;p&gt;When I first started working, I had this idealistic vision that I would be judged based on my results and my results alone. In certain professions where one’s output can be easily quantified like sales and trading, this is indeed the case. But in most other professions where one’s contribution is not as easy to measure, one is valued based on an arcane combination of politics and lazy proxy metrics.&lt;/p&gt;
 &lt;p&gt;Eventually I came to the sobering realization that &lt;strong&gt;perception is valued more than anything else&lt;/strong&gt;. This perception is ultimately determined by one or two humans higher up in the corporate ladder - which in the case of technical roles in many cases don’t have the technical knowledge to actually know what you’re doing and evaluate your productivity.&lt;/p&gt;
 &lt;p&gt;When your managers have the technical competency to evaluate your work, then work is more enjoyable because you know you will get credit where it’s due. You need to spend an extra day refactoring that code? Your boss understands. There is a sense of trust because there’s no black box here, you both know what you’re doing.&lt;/p&gt;
 &lt;p&gt;When your boss doesn’t have that technical competency is when things become less straightforward and perception starts playing a bigger role. And even when your boss is technically competent in what you’re doing, he is most likely answering to people who aren’t, and so he has to play the perception game with his bosses dragging you into it.&lt;/p&gt;
@@ -1495,7 +1495,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/1eb1792cd0e97dda146ac6f8aec1d391/21d4e/20180130_170402.jpg&quot;
+    href=&quot;/gatsby-starter-blog/static/1eb1792cd0e97dda146ac6f8aec1d391/21d4e/20180130_170402.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1509,13 +1509,13 @@
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
         alt=&quot;2 for $1&quot;
         title=&quot;&quot;
-        src=&quot;/static/1eb1792cd0e97dda146ac6f8aec1d391/c739e/20180130_170402.jpg&quot;
-        srcset=&quot;/static/1eb1792cd0e97dda146ac6f8aec1d391/8ee9c/20180130_170402.jpg 148w,
-/static/1eb1792cd0e97dda146ac6f8aec1d391/ebbe7/20180130_170402.jpg 295w,
-/static/1eb1792cd0e97dda146ac6f8aec1d391/c739e/20180130_170402.jpg 590w,
-/static/1eb1792cd0e97dda146ac6f8aec1d391/5413e/20180130_170402.jpg 885w,
-/static/1eb1792cd0e97dda146ac6f8aec1d391/4efde/20180130_170402.jpg 1180w,
-/static/1eb1792cd0e97dda146ac6f8aec1d391/21d4e/20180130_170402.jpg 5312w&quot;
+        src=&quot;/gatsby-starter-blog/static/1eb1792cd0e97dda146ac6f8aec1d391/c739e/20180130_170402.jpg&quot;
+        srcset=&quot;/gatsby-starter-blog/static/1eb1792cd0e97dda146ac6f8aec1d391/8ee9c/20180130_170402.jpg 148w,
+/gatsby-starter-blog/static/1eb1792cd0e97dda146ac6f8aec1d391/ebbe7/20180130_170402.jpg 295w,
+/gatsby-starter-blog/static/1eb1792cd0e97dda146ac6f8aec1d391/c739e/20180130_170402.jpg 590w,
+/gatsby-starter-blog/static/1eb1792cd0e97dda146ac6f8aec1d391/5413e/20180130_170402.jpg 885w,
+/gatsby-starter-blog/static/1eb1792cd0e97dda146ac6f8aec1d391/4efde/20180130_170402.jpg 1180w,
+/gatsby-starter-blog/static/1eb1792cd0e97dda146ac6f8aec1d391/21d4e/20180130_170402.jpg 5312w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
   &lt;/a&gt;
@@ -1531,7 +1531,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/539e75bf93f95c0fb7f316ebfb2b3247/f2f82/street_hawkers1.png&quot;
+    href=&quot;/gatsby-starter-blog/static/539e75bf93f95c0fb7f316ebfb2b3247/f2f82/street_hawkers1.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1545,13 +1545,13 @@
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Street vendors for vehicles&quot;
         title=&quot;&quot;
-        src=&quot;/static/539e75bf93f95c0fb7f316ebfb2b3247/b9e4f/street_hawkers1.png&quot;
-        srcset=&quot;/static/539e75bf93f95c0fb7f316ebfb2b3247/cf440/street_hawkers1.png 148w,
-/static/539e75bf93f95c0fb7f316ebfb2b3247/d2d38/street_hawkers1.png 295w,
-/static/539e75bf93f95c0fb7f316ebfb2b3247/b9e4f/street_hawkers1.png 590w,
-/static/539e75bf93f95c0fb7f316ebfb2b3247/f9b6a/street_hawkers1.png 885w,
-/static/539e75bf93f95c0fb7f316ebfb2b3247/2d849/street_hawkers1.png 1180w,
-/static/539e75bf93f95c0fb7f316ebfb2b3247/f2f82/street_hawkers1.png 3076w&quot;
+        src=&quot;/gatsby-starter-blog/static/539e75bf93f95c0fb7f316ebfb2b3247/b9e4f/street_hawkers1.png&quot;
+        srcset=&quot;/gatsby-starter-blog/static/539e75bf93f95c0fb7f316ebfb2b3247/cf440/street_hawkers1.png 148w,
+/gatsby-starter-blog/static/539e75bf93f95c0fb7f316ebfb2b3247/d2d38/street_hawkers1.png 295w,
+/gatsby-starter-blog/static/539e75bf93f95c0fb7f316ebfb2b3247/b9e4f/street_hawkers1.png 590w,
+/gatsby-starter-blog/static/539e75bf93f95c0fb7f316ebfb2b3247/f9b6a/street_hawkers1.png 885w,
+/gatsby-starter-blog/static/539e75bf93f95c0fb7f316ebfb2b3247/2d849/street_hawkers1.png 1180w,
+/gatsby-starter-blog/static/539e75bf93f95c0fb7f316ebfb2b3247/f2f82/street_hawkers1.png 3076w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
   &lt;/a&gt;
@@ -1563,7 +1563,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/6796d5126163204408643674822c6f38/57159/market1.png&quot;
+    href=&quot;/gatsby-starter-blog/static/6796d5126163204408643674822c6f38/57159/market1.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1577,13 +1577,13 @@
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
         alt=&quot;market&quot;
         title=&quot;&quot;
-        src=&quot;/static/6796d5126163204408643674822c6f38/b9e4f/market1.png&quot;
-        srcset=&quot;/static/6796d5126163204408643674822c6f38/cf440/market1.png 148w,
-/static/6796d5126163204408643674822c6f38/d2d38/market1.png 295w,
-/static/6796d5126163204408643674822c6f38/b9e4f/market1.png 590w,
-/static/6796d5126163204408643674822c6f38/f9b6a/market1.png 885w,
-/static/6796d5126163204408643674822c6f38/2d849/market1.png 1180w,
-/static/6796d5126163204408643674822c6f38/57159/market1.png 3072w&quot;
+        src=&quot;/gatsby-starter-blog/static/6796d5126163204408643674822c6f38/b9e4f/market1.png&quot;
+        srcset=&quot;/gatsby-starter-blog/static/6796d5126163204408643674822c6f38/cf440/market1.png 148w,
+/gatsby-starter-blog/static/6796d5126163204408643674822c6f38/d2d38/market1.png 295w,
+/gatsby-starter-blog/static/6796d5126163204408643674822c6f38/b9e4f/market1.png 590w,
+/gatsby-starter-blog/static/6796d5126163204408643674822c6f38/f9b6a/market1.png 885w,
+/gatsby-starter-blog/static/6796d5126163204408643674822c6f38/2d849/market1.png 1180w,
+/gatsby-starter-blog/static/6796d5126163204408643674822c6f38/57159/market1.png 3072w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
   &lt;/a&gt;
@@ -1595,7 +1595,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/c1b1829608fd75be8157682beadfec7b/21d4e/20180126_174833.jpg&quot;
+    href=&quot;/gatsby-starter-blog/static/c1b1829608fd75be8157682beadfec7b/21d4e/20180126_174833.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1609,13 +1609,13 @@
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Capitalism is a beautiful thing&quot;
         title=&quot;&quot;
-        src=&quot;/static/c1b1829608fd75be8157682beadfec7b/c739e/20180126_174833.jpg&quot;
-        srcset=&quot;/static/c1b1829608fd75be8157682beadfec7b/8ee9c/20180126_174833.jpg 148w,
-/static/c1b1829608fd75be8157682beadfec7b/ebbe7/20180126_174833.jpg 295w,
-/static/c1b1829608fd75be8157682beadfec7b/c739e/20180126_174833.jpg 590w,
-/static/c1b1829608fd75be8157682beadfec7b/5413e/20180126_174833.jpg 885w,
-/static/c1b1829608fd75be8157682beadfec7b/4efde/20180126_174833.jpg 1180w,
-/static/c1b1829608fd75be8157682beadfec7b/21d4e/20180126_174833.jpg 5312w&quot;
+        src=&quot;/gatsby-starter-blog/static/c1b1829608fd75be8157682beadfec7b/c739e/20180126_174833.jpg&quot;
+        srcset=&quot;/gatsby-starter-blog/static/c1b1829608fd75be8157682beadfec7b/8ee9c/20180126_174833.jpg 148w,
+/gatsby-starter-blog/static/c1b1829608fd75be8157682beadfec7b/ebbe7/20180126_174833.jpg 295w,
+/gatsby-starter-blog/static/c1b1829608fd75be8157682beadfec7b/c739e/20180126_174833.jpg 590w,
+/gatsby-starter-blog/static/c1b1829608fd75be8157682beadfec7b/5413e/20180126_174833.jpg 885w,
+/gatsby-starter-blog/static/c1b1829608fd75be8157682beadfec7b/4efde/20180126_174833.jpg 1180w,
+/gatsby-starter-blog/static/c1b1829608fd75be8157682beadfec7b/21d4e/20180126_174833.jpg 5312w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
   &lt;/a&gt;
@@ -1631,7 +1631,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/5c6063ddd1d936f8231239ff68bc5c87/21d4e/20180130_132410.jpg&quot;
+    href=&quot;/gatsby-starter-blog/static/5c6063ddd1d936f8231239ff68bc5c87/21d4e/20180130_132410.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1645,13 +1645,13 @@
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
         alt=&quot;2 for $1&quot;
         title=&quot;&quot;
-        src=&quot;/static/5c6063ddd1d936f8231239ff68bc5c87/c739e/20180130_132410.jpg&quot;
-        srcset=&quot;/static/5c6063ddd1d936f8231239ff68bc5c87/8ee9c/20180130_132410.jpg 148w,
-/static/5c6063ddd1d936f8231239ff68bc5c87/ebbe7/20180130_132410.jpg 295w,
-/static/5c6063ddd1d936f8231239ff68bc5c87/c739e/20180130_132410.jpg 590w,
-/static/5c6063ddd1d936f8231239ff68bc5c87/5413e/20180130_132410.jpg 885w,
-/static/5c6063ddd1d936f8231239ff68bc5c87/4efde/20180130_132410.jpg 1180w,
-/static/5c6063ddd1d936f8231239ff68bc5c87/21d4e/20180130_132410.jpg 5312w&quot;
+        src=&quot;/gatsby-starter-blog/static/5c6063ddd1d936f8231239ff68bc5c87/c739e/20180130_132410.jpg&quot;
+        srcset=&quot;/gatsby-starter-blog/static/5c6063ddd1d936f8231239ff68bc5c87/8ee9c/20180130_132410.jpg 148w,
+/gatsby-starter-blog/static/5c6063ddd1d936f8231239ff68bc5c87/ebbe7/20180130_132410.jpg 295w,
+/gatsby-starter-blog/static/5c6063ddd1d936f8231239ff68bc5c87/c739e/20180130_132410.jpg 590w,
+/gatsby-starter-blog/static/5c6063ddd1d936f8231239ff68bc5c87/5413e/20180130_132410.jpg 885w,
+/gatsby-starter-blog/static/5c6063ddd1d936f8231239ff68bc5c87/4efde/20180130_132410.jpg 1180w,
+/gatsby-starter-blog/static/5c6063ddd1d936f8231239ff68bc5c87/21d4e/20180130_132410.jpg 5312w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
   &lt;/a&gt;
@@ -1663,7 +1663,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/51998432676faae4c93a30cedd6bf9cb/21d4e/20180127_121839.jpg&quot;
+    href=&quot;/gatsby-starter-blog/static/51998432676faae4c93a30cedd6bf9cb/21d4e/20180127_121839.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1677,13 +1677,13 @@
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
         alt=&quot;gordita - one of my favorites. 30 pesos ($1.62)&quot;
         title=&quot;&quot;
-        src=&quot;/static/51998432676faae4c93a30cedd6bf9cb/c739e/20180127_121839.jpg&quot;
-        srcset=&quot;/static/51998432676faae4c93a30cedd6bf9cb/8ee9c/20180127_121839.jpg 148w,
-/static/51998432676faae4c93a30cedd6bf9cb/ebbe7/20180127_121839.jpg 295w,
-/static/51998432676faae4c93a30cedd6bf9cb/c739e/20180127_121839.jpg 590w,
-/static/51998432676faae4c93a30cedd6bf9cb/5413e/20180127_121839.jpg 885w,
-/static/51998432676faae4c93a30cedd6bf9cb/4efde/20180127_121839.jpg 1180w,
-/static/51998432676faae4c93a30cedd6bf9cb/21d4e/20180127_121839.jpg 5312w&quot;
+        src=&quot;/gatsby-starter-blog/static/51998432676faae4c93a30cedd6bf9cb/c739e/20180127_121839.jpg&quot;
+        srcset=&quot;/gatsby-starter-blog/static/51998432676faae4c93a30cedd6bf9cb/8ee9c/20180127_121839.jpg 148w,
+/gatsby-starter-blog/static/51998432676faae4c93a30cedd6bf9cb/ebbe7/20180127_121839.jpg 295w,
+/gatsby-starter-blog/static/51998432676faae4c93a30cedd6bf9cb/c739e/20180127_121839.jpg 590w,
+/gatsby-starter-blog/static/51998432676faae4c93a30cedd6bf9cb/5413e/20180127_121839.jpg 885w,
+/gatsby-starter-blog/static/51998432676faae4c93a30cedd6bf9cb/4efde/20180127_121839.jpg 1180w,
+/gatsby-starter-blog/static/51998432676faae4c93a30cedd6bf9cb/21d4e/20180127_121839.jpg 5312w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
   &lt;/a&gt;
@@ -1709,7 +1709,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/020ec48d9306acdfd18347b76fef969e/21d4e/20180129_165644.jpg&quot;
+    href=&quot;/gatsby-starter-blog/static/020ec48d9306acdfd18347b76fef969e/21d4e/20180129_165644.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1723,13 +1723,13 @@
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
         alt=&quot;park&quot;
         title=&quot;&quot;
-        src=&quot;/static/020ec48d9306acdfd18347b76fef969e/c739e/20180129_165644.jpg&quot;
-        srcset=&quot;/static/020ec48d9306acdfd18347b76fef969e/8ee9c/20180129_165644.jpg 148w,
-/static/020ec48d9306acdfd18347b76fef969e/ebbe7/20180129_165644.jpg 295w,
-/static/020ec48d9306acdfd18347b76fef969e/c739e/20180129_165644.jpg 590w,
-/static/020ec48d9306acdfd18347b76fef969e/5413e/20180129_165644.jpg 885w,
-/static/020ec48d9306acdfd18347b76fef969e/4efde/20180129_165644.jpg 1180w,
-/static/020ec48d9306acdfd18347b76fef969e/21d4e/20180129_165644.jpg 5312w&quot;
+        src=&quot;/gatsby-starter-blog/static/020ec48d9306acdfd18347b76fef969e/c739e/20180129_165644.jpg&quot;
+        srcset=&quot;/gatsby-starter-blog/static/020ec48d9306acdfd18347b76fef969e/8ee9c/20180129_165644.jpg 148w,
+/gatsby-starter-blog/static/020ec48d9306acdfd18347b76fef969e/ebbe7/20180129_165644.jpg 295w,
+/gatsby-starter-blog/static/020ec48d9306acdfd18347b76fef969e/c739e/20180129_165644.jpg 590w,
+/gatsby-starter-blog/static/020ec48d9306acdfd18347b76fef969e/5413e/20180129_165644.jpg 885w,
+/gatsby-starter-blog/static/020ec48d9306acdfd18347b76fef969e/4efde/20180129_165644.jpg 1180w,
+/gatsby-starter-blog/static/020ec48d9306acdfd18347b76fef969e/21d4e/20180129_165644.jpg 5312w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
   &lt;/a&gt;
@@ -1740,7 +1740,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/7d478e9e3d25b94267ba1f6f45584986/21d4e/20180129_170548.jpg&quot;
+    href=&quot;/gatsby-starter-blog/static/7d478e9e3d25b94267ba1f6f45584986/21d4e/20180129_170548.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1754,13 +1754,13 @@
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
         alt=&quot;park trees&quot;
         title=&quot;&quot;
-        src=&quot;/static/7d478e9e3d25b94267ba1f6f45584986/c739e/20180129_170548.jpg&quot;
-        srcset=&quot;/static/7d478e9e3d25b94267ba1f6f45584986/8ee9c/20180129_170548.jpg 148w,
-/static/7d478e9e3d25b94267ba1f6f45584986/ebbe7/20180129_170548.jpg 295w,
-/static/7d478e9e3d25b94267ba1f6f45584986/c739e/20180129_170548.jpg 590w,
-/static/7d478e9e3d25b94267ba1f6f45584986/5413e/20180129_170548.jpg 885w,
-/static/7d478e9e3d25b94267ba1f6f45584986/4efde/20180129_170548.jpg 1180w,
-/static/7d478e9e3d25b94267ba1f6f45584986/21d4e/20180129_170548.jpg 5312w&quot;
+        src=&quot;/gatsby-starter-blog/static/7d478e9e3d25b94267ba1f6f45584986/c739e/20180129_170548.jpg&quot;
+        srcset=&quot;/gatsby-starter-blog/static/7d478e9e3d25b94267ba1f6f45584986/8ee9c/20180129_170548.jpg 148w,
+/gatsby-starter-blog/static/7d478e9e3d25b94267ba1f6f45584986/ebbe7/20180129_170548.jpg 295w,
+/gatsby-starter-blog/static/7d478e9e3d25b94267ba1f6f45584986/c739e/20180129_170548.jpg 590w,
+/gatsby-starter-blog/static/7d478e9e3d25b94267ba1f6f45584986/5413e/20180129_170548.jpg 885w,
+/gatsby-starter-blog/static/7d478e9e3d25b94267ba1f6f45584986/4efde/20180129_170548.jpg 1180w,
+/gatsby-starter-blog/static/7d478e9e3d25b94267ba1f6f45584986/21d4e/20180129_170548.jpg 5312w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
   &lt;/a&gt;
@@ -1772,7 +1772,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/e13018b56a69ccbccda0de0b18c7be82/21d4e/20180127_120348.jpg&quot;
+    href=&quot;/gatsby-starter-blog/static/e13018b56a69ccbccda0de0b18c7be82/21d4e/20180127_120348.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1786,13 +1786,13 @@
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
         alt=&quot;outside the Museum of Anthropology&quot;
         title=&quot;&quot;
-        src=&quot;/static/e13018b56a69ccbccda0de0b18c7be82/c739e/20180127_120348.jpg&quot;
-        srcset=&quot;/static/e13018b56a69ccbccda0de0b18c7be82/8ee9c/20180127_120348.jpg 148w,
-/static/e13018b56a69ccbccda0de0b18c7be82/ebbe7/20180127_120348.jpg 295w,
-/static/e13018b56a69ccbccda0de0b18c7be82/c739e/20180127_120348.jpg 590w,
-/static/e13018b56a69ccbccda0de0b18c7be82/5413e/20180127_120348.jpg 885w,
-/static/e13018b56a69ccbccda0de0b18c7be82/4efde/20180127_120348.jpg 1180w,
-/static/e13018b56a69ccbccda0de0b18c7be82/21d4e/20180127_120348.jpg 5312w&quot;
+        src=&quot;/gatsby-starter-blog/static/e13018b56a69ccbccda0de0b18c7be82/c739e/20180127_120348.jpg&quot;
+        srcset=&quot;/gatsby-starter-blog/static/e13018b56a69ccbccda0de0b18c7be82/8ee9c/20180127_120348.jpg 148w,
+/gatsby-starter-blog/static/e13018b56a69ccbccda0de0b18c7be82/ebbe7/20180127_120348.jpg 295w,
+/gatsby-starter-blog/static/e13018b56a69ccbccda0de0b18c7be82/c739e/20180127_120348.jpg 590w,
+/gatsby-starter-blog/static/e13018b56a69ccbccda0de0b18c7be82/5413e/20180127_120348.jpg 885w,
+/gatsby-starter-blog/static/e13018b56a69ccbccda0de0b18c7be82/4efde/20180127_120348.jpg 1180w,
+/gatsby-starter-blog/static/e13018b56a69ccbccda0de0b18c7be82/21d4e/20180127_120348.jpg 5312w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
   &lt;/a&gt;
@@ -1803,7 +1803,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/649e6c7f8cff64008985d94180d1da68/21d4e/20180126_183021.jpg&quot;
+    href=&quot;/gatsby-starter-blog/static/649e6c7f8cff64008985d94180d1da68/21d4e/20180126_183021.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1817,13 +1817,13 @@
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
         alt=&quot;graffiti&quot;
         title=&quot;&quot;
-        src=&quot;/static/649e6c7f8cff64008985d94180d1da68/c739e/20180126_183021.jpg&quot;
-        srcset=&quot;/static/649e6c7f8cff64008985d94180d1da68/8ee9c/20180126_183021.jpg 148w,
-/static/649e6c7f8cff64008985d94180d1da68/ebbe7/20180126_183021.jpg 295w,
-/static/649e6c7f8cff64008985d94180d1da68/c739e/20180126_183021.jpg 590w,
-/static/649e6c7f8cff64008985d94180d1da68/5413e/20180126_183021.jpg 885w,
-/static/649e6c7f8cff64008985d94180d1da68/4efde/20180126_183021.jpg 1180w,
-/static/649e6c7f8cff64008985d94180d1da68/21d4e/20180126_183021.jpg 5312w&quot;
+        src=&quot;/gatsby-starter-blog/static/649e6c7f8cff64008985d94180d1da68/c739e/20180126_183021.jpg&quot;
+        srcset=&quot;/gatsby-starter-blog/static/649e6c7f8cff64008985d94180d1da68/8ee9c/20180126_183021.jpg 148w,
+/gatsby-starter-blog/static/649e6c7f8cff64008985d94180d1da68/ebbe7/20180126_183021.jpg 295w,
+/gatsby-starter-blog/static/649e6c7f8cff64008985d94180d1da68/c739e/20180126_183021.jpg 590w,
+/gatsby-starter-blog/static/649e6c7f8cff64008985d94180d1da68/5413e/20180126_183021.jpg 885w,
+/gatsby-starter-blog/static/649e6c7f8cff64008985d94180d1da68/4efde/20180126_183021.jpg 1180w,
+/gatsby-starter-blog/static/649e6c7f8cff64008985d94180d1da68/21d4e/20180126_183021.jpg 5312w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
   &lt;/a&gt;
@@ -1834,7 +1834,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/5ed91a577812a91b25f5f5dbb95d9d84/21d4e/20180129_174921.jpg&quot;
+    href=&quot;/gatsby-starter-blog/static/5ed91a577812a91b25f5f5dbb95d9d84/21d4e/20180129_174921.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1848,13 +1848,13 @@
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
         alt=&quot;creepy graffiti&quot;
         title=&quot;&quot;
-        src=&quot;/static/5ed91a577812a91b25f5f5dbb95d9d84/c739e/20180129_174921.jpg&quot;
-        srcset=&quot;/static/5ed91a577812a91b25f5f5dbb95d9d84/8ee9c/20180129_174921.jpg 148w,
-/static/5ed91a577812a91b25f5f5dbb95d9d84/ebbe7/20180129_174921.jpg 295w,
-/static/5ed91a577812a91b25f5f5dbb95d9d84/c739e/20180129_174921.jpg 590w,
-/static/5ed91a577812a91b25f5f5dbb95d9d84/5413e/20180129_174921.jpg 885w,
-/static/5ed91a577812a91b25f5f5dbb95d9d84/4efde/20180129_174921.jpg 1180w,
-/static/5ed91a577812a91b25f5f5dbb95d9d84/21d4e/20180129_174921.jpg 5312w&quot;
+        src=&quot;/gatsby-starter-blog/static/5ed91a577812a91b25f5f5dbb95d9d84/c739e/20180129_174921.jpg&quot;
+        srcset=&quot;/gatsby-starter-blog/static/5ed91a577812a91b25f5f5dbb95d9d84/8ee9c/20180129_174921.jpg 148w,
+/gatsby-starter-blog/static/5ed91a577812a91b25f5f5dbb95d9d84/ebbe7/20180129_174921.jpg 295w,
+/gatsby-starter-blog/static/5ed91a577812a91b25f5f5dbb95d9d84/c739e/20180129_174921.jpg 590w,
+/gatsby-starter-blog/static/5ed91a577812a91b25f5f5dbb95d9d84/5413e/20180129_174921.jpg 885w,
+/gatsby-starter-blog/static/5ed91a577812a91b25f5f5dbb95d9d84/4efde/20180129_174921.jpg 1180w,
+/gatsby-starter-blog/static/5ed91a577812a91b25f5f5dbb95d9d84/21d4e/20180129_174921.jpg 5312w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
   &lt;/a&gt;
@@ -1899,7 +1899,7 @@
 &lt;p&gt;I’m still blown away at how interesting and well-traveled everyone is. People here have traveled the world and have all kinds of stories to tell. I’m like a suburban child among peers of the “world’s most interesting man” from the Dox Equis commercial. I honestly feel kind of inadequate, not only when it comes to travel stories, but culture, international politics, history, etc. I’ll nod and absorb the knowledge, but often have very little to offer.&lt;/p&gt;
 &lt;p&gt;The biggest eye-opener to me has been how interesting everybody is. Even in NYC, most of the people I interacted with were fairly boring. Work boring office job, sleep, work, sleep, repeat. It’s so prevalent and ingrained in our culture that I almost felt guilty for having wanderlust and wanting to try new things and see new places. Because that makes me an uncommitted engineer/employee, not “mature enough”, not fit for the “adult” world. Plus you’ve got six figures of student loan debt with ~7% interest, how can you even consider extensive traveling?&lt;/p&gt;
 &lt;p&gt;Since my very first job I’ve always had the desire to travel extensively (something I couldn’t do prior to my first job because I didn’t have any money). My dream from the very beginning was to get a remote job. For each of my 3 years in the workforce, I vowed to ask/tell my employer that I’d be working remotely this summer, and move to Barcelona. Each summer it never happened. At first I was too afraid because I figured they wouldn’t allow it, but the last summer I legitimately had convinced myself that I probably wouldn’t be happier abroad anyways.&lt;/p&gt;
-&lt;p&gt;See not only was I forgoing my own happiness, but I was becoming one of those boring people I had tried so hard to avoid becoming. By the time I left my job, I had almost completely lost my desire to travel, thinking that it was probably overrated anyways and might make me less productive. Had it not been for the fact that I was so &lt;a href=&quot;/why-i-left-nyc&quot;&gt;fed up with NYC&lt;/a&gt; and its high cost of living, I might not even have left.&lt;/p&gt;
+&lt;p&gt;See not only was I forgoing my own happiness, but I was becoming one of those boring people I had tried so hard to avoid becoming. By the time I left my job, I had almost completely lost my desire to travel, thinking that it was probably overrated anyways and might make me less productive. Had it not been for the fact that I was so &lt;a href=&quot;/gatsby-starter-blog/why-i-left-nyc&quot;&gt;fed up with NYC&lt;/a&gt; and its high cost of living, I might not even have left.&lt;/p&gt;
 &lt;p&gt;I’m so glad I left. My eyes have been opened. I met a guy from Whales who quit his job 3 times to travel, traveling for a year, and then returning back to the same employer each time (he was worried that they wouldn’t let him back this time). I met a woman who quit her job in NYC to travel, and ended up spending 2 years traveling the world and living in Australia. I met a guy from Chicago who had quit his last job to travel for a year, and now at the end of an epic 3 week trip to South America was planning to quit his job back home to travel. I met a chemist from England who had quit his job multiple times to travel, and had spent the last 6 months living in New Zealand and was on his way to trek through South America and hike through Patagonia. I partied with a Swiss software engineer who was on a 2 month vacation traveling through Latin America (yes, his company was letting him take a 2 month paid vacation) and a 25 year old who owns 15 vape shops in London and now travels the world (he recently bought a Bentley).&lt;/p&gt;
 &lt;p&gt;In a hostel, these are your average peers. In an average office, your average peers are often boring, basic, and unambitious (note: obviously this is a generalization and doesn’t apply to every company).&lt;/p&gt;
 &lt;p&gt;I hate offices. Maybe it’s just American culture, but I hate how politically correct it is. I hate how you have to pretend like you love your job, that there’s nothing else you’d rather be doing, and that there’s nowhere else you’d rather be. Not all jobs are like that, but most are (especially software engineering jobs in NYC). It’s the one thing I missed the most about school, the freedom to speak your mind and be whoever you want, to question things, to criticize your bosses. Ultimately none of this has any effect on your grades (at least in the hard sciences). In an (American) company, your boss can literally fire you for anything, even if it has nothing to do with your performance. Most American workers live precarious lives on the brink, one arbitrary firing away from insolvency.&lt;/p&gt;
@@ -2055,7 +2055,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/03539bb0fe80d815a83597690eca5395/e3813/cnn-snapchat-story.jpg&quot;
+    href=&quot;/gatsby-starter-blog/static/03539bb0fe80d815a83597690eca5395/e3813/cnn-snapchat-story.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -2069,10 +2069,10 @@
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
         alt=&quot;CNN Snapchat story coverage of Google memo&quot;
         title=&quot;&quot;
-        src=&quot;/static/03539bb0fe80d815a83597690eca5395/e3813/cnn-snapchat-story.jpg&quot;
-        srcset=&quot;/static/03539bb0fe80d815a83597690eca5395/8ee9c/cnn-snapchat-story.jpg 148w,
-/static/03539bb0fe80d815a83597690eca5395/ebbe7/cnn-snapchat-story.jpg 295w,
-/static/03539bb0fe80d815a83597690eca5395/e3813/cnn-snapchat-story.jpg 396w&quot;
+        src=&quot;/gatsby-starter-blog/static/03539bb0fe80d815a83597690eca5395/e3813/cnn-snapchat-story.jpg&quot;
+        srcset=&quot;/gatsby-starter-blog/static/03539bb0fe80d815a83597690eca5395/8ee9c/cnn-snapchat-story.jpg 148w,
+/gatsby-starter-blog/static/03539bb0fe80d815a83597690eca5395/ebbe7/cnn-snapchat-story.jpg 295w,
+/gatsby-starter-blog/static/03539bb0fe80d815a83597690eca5395/e3813/cnn-snapchat-story.jpg 396w&quot;
         sizes=&quot;(max-width: 396px) 100vw, 396px&quot;
       /&gt;
   &lt;/a&gt;
@@ -2113,7 +2113,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/8f08125b144c4a02663b1ee9ea118421/53d89/south-korea-resume.jpg&quot;
+    href=&quot;/gatsby-starter-blog/static/8f08125b144c4a02663b1ee9ea118421/53d89/south-korea-resume.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -2127,10 +2127,10 @@
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Korean Resume&quot;
         title=&quot;&quot;
-        src=&quot;/static/8f08125b144c4a02663b1ee9ea118421/53d89/south-korea-resume.jpg&quot;
-        srcset=&quot;/static/8f08125b144c4a02663b1ee9ea118421/8ee9c/south-korea-resume.jpg 148w,
-/static/8f08125b144c4a02663b1ee9ea118421/ebbe7/south-korea-resume.jpg 295w,
-/static/8f08125b144c4a02663b1ee9ea118421/53d89/south-korea-resume.jpg 390w&quot;
+        src=&quot;/gatsby-starter-blog/static/8f08125b144c4a02663b1ee9ea118421/53d89/south-korea-resume.jpg&quot;
+        srcset=&quot;/gatsby-starter-blog/static/8f08125b144c4a02663b1ee9ea118421/8ee9c/south-korea-resume.jpg 148w,
+/gatsby-starter-blog/static/8f08125b144c4a02663b1ee9ea118421/ebbe7/south-korea-resume.jpg 295w,
+/gatsby-starter-blog/static/8f08125b144c4a02663b1ee9ea118421/53d89/south-korea-resume.jpg 390w&quot;
         sizes=&quot;(max-width: 390px) 100vw, 390px&quot;
       /&gt;
   &lt;/a&gt;
@@ -2466,26 +2466,7 @@ li {
 }&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[I Made a React Redux Node Boilerplate]]></title><description><![CDATA[Redux is currently the hottest framework in React world. The official Redux examples are very lackluster, so I wrote a simple blog app that…]]></description><link>https://www.jeremyabroad.com/react-redux-node-boilerplate/</link><guid isPermaLink="false">https://www.jeremyabroad.com/react-redux-node-boilerplate/</guid><pubDate>Wed, 13 Apr 2016 12:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Redux is currently the hottest framework in React world. &lt;/p&gt;
 &lt;p&gt;The official Redux examples are very lackluster, so I wrote a &lt;a href=&quot;https://github.com/JeremyBernier/react-redux-node-boilerplate&quot;&gt;simple blog app&lt;/a&gt; that contains the minimum you’d need for universal/isomorphic rendering, routing (via React-Router), async (via Redux-Thunk, unfortunately you can’t do async out of the box in Redux), meta tags (via React-Helmet), and deploying to production. There’s still work to be done (eg. cleaning up code), but it works and the main boilerplate is implemented. &lt;/p&gt;
 &lt;p&gt;GitHub link: &lt;a href=&quot;https://github.com/JeremyBernier/react-redux-node-boilerplate&quot;&gt;https://github.com/JeremyBernier/react-redux-node-boilerplate&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Hopefully this will minimize the amount of time you have to waste writing boring boilerplate code just to get up and running. &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Adam Grant - Originals (summary)]]></title><description><![CDATA[Recently listened to an interesting interview of Adam Grant (via James Altucher’s podcast) where he talked about his research in his book…]]></description><link>https://www.jeremyabroad.com/adam-grant-originals/</link><guid isPermaLink="false">https://www.jeremyabroad.com/adam-grant-originals/</guid><pubDate>Mon, 04 Apr 2016 12:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Recently listened to an &lt;a href=&quot;http://www.jamesaltucher.com/2016/02/adam-grant/&quot;&gt;interesting interview of Adam Grant&lt;/a&gt; (via James Altucher’s podcast) where he talked about his research in his book “Originals”. Adam Grant is the youngest tenured and most highly rated professor at the Wharton School.&lt;/p&gt;
-&lt;p&gt;Key takeaways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Seeking criticism, questioning assumptions, and willingness to change beliefs when presented with countering evidence is vital (political correctness and hivemind thinking run completely counter to this)&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Procrastination leads to more creative/original ideas (up to a point).&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;A study was done where participants were given an assignment and one group was forced to play Minesweeper for 5 minutes immediately after being assigned the task. That group was most creative. The group forced to play Minesweeper for 5 minutes before given the assignment did not perform any better.&lt;/li&gt;
-&lt;li&gt;This can be attributed to your brain unconsciously processing information in the background of your mind. It’s just like how information is often retained better when you learn it right before sleeping.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;People who keep their day jobs while trying to start a business are 33% less likely to fail&lt;/li&gt;
-&lt;li&gt;First mover advantage isn’t reflected in statistics. 47% of first-movers fail, compared to 8% of late entrants.&lt;/li&gt;
-&lt;li&gt;A wide breadth of knowledge is more conducive to coming up with original ideas than depth. Innovation often comes from applying something from one field to a totally different field.&lt;/li&gt;
-&lt;li&gt;Depth of knowledge gives one good intuition within one’s own field, but does not apply well outside that field (eg. Steve Jobs championing the segway)&lt;/li&gt;
-&lt;li&gt;Don’t be afraid of failure. Volume of ideas/attempts is critical. You can fail by trying and failing or not trying at all. Given that most regrets are from inaction, it makes more sense to be the former.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;As a society, we’re most definitely not optimizing for creative and original thinking. We place so much value on conformity and robot-like depth of knowledge that we shun those who may be most likely to offer the most innovative ideas and solutions.&lt;/p&gt;
-&lt;p&gt;For example, schools and companies tend to reward the most risk-averse and conformist indoctrinated individuals while punishing the rest. This leads to a very one-dimensional labor force, unable to think outside the confines of their own boundaries.&lt;/p&gt;
-&lt;p&gt;This is largely due to the increased competition and cutthroat nature of education/labor markets.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[How to work efficiently and stop wasting your time]]></title><description><![CDATA[Productivity, or the rate at which you get stuff done, is highly variable. When I’m “in the zone”, I’d estimate conservatively that I’m 4x…]]></description><link>https://www.jeremyabroad.com/how-to-work-efficiently/</link><guid isPermaLink="false">https://www.jeremyabroad.com/how-to-work-efficiently/</guid><pubDate>Mon, 04 Apr 2016 12:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Productivity, or the rate at which you get stuff done, is highly variable. When I’m “in the zone”, I’d estimate conservatively that I’m 4x more productive than when I’m least productive (eg. tired, bored, unfocused).&lt;/p&gt;
+&lt;p&gt;Hopefully this will minimize the amount of time you have to waste writing boring boilerplate code just to get up and running. &lt;/p&gt;</content:encoded></item><item><title><![CDATA[How to work efficiently and stop wasting your time]]></title><description><![CDATA[Productivity, or the rate at which you get stuff done, is highly variable. When I’m “in the zone”, I’d estimate conservatively that I’m 4x…]]></description><link>https://www.jeremyabroad.com/how-to-work-efficiently/</link><guid isPermaLink="false">https://www.jeremyabroad.com/how-to-work-efficiently/</guid><pubDate>Mon, 04 Apr 2016 12:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Productivity, or the rate at which you get stuff done, is highly variable. When I’m “in the zone”, I’d estimate conservatively that I’m 4x more productive than when I’m least productive (eg. tired, bored, unfocused).&lt;/p&gt;
 &lt;p&gt;Unfortunately it’s not possible to constantly work at 100% productivity. We’re not robots, and our brains need rest. It’s inevitable that at some point, your ability to come up with creative ideas and be intensely focused will diminish (note: I’m referring to real, creative work, not rote/repetitive menial labor tasks).&lt;/p&gt;
 &lt;p&gt;When you get to this point of diminished productivity, you’re better off taking a break because that allows you to replenish your batteries quicker.&lt;/p&gt;
 &lt;p&gt;For example, you could do one of the following:&lt;/p&gt;
@@ -2514,7 +2495,26 @@ In case 2, your output is 2 * .6 = 1.2&lt;/p&gt;
 &lt;p&gt;In a sense this is admirable, and to a certain extent it is a good thing in that it builds discipline and expands my boundaries. But there’s a clear point after which it becomes counterproductive, and I crossed that line way too many times. The result is that I’ve accomplished significantly less than my potential, while wasting significantly more hours “working” - time that could’ve been spent exposing myself to random opportunities or simply enjoying life.&lt;/p&gt;
 &lt;p&gt;As a society we glamorize working way too much. It’s almost a status symbol to brag about how long you’ve worked. It’s utterly ridiculous. Work is simply a means to an end, and has diminishing returns. If you spend 10 hours doing something that could’ve been done in 4, you’re just an idiot who doesn’t value his time (by extension, your life). There’s nothing admirable about that. If you were truly devoted, then you would’ve optimized your time to work more efficiently.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Pay attention to your rate of productivity. It is extremely variable. Optimize to maximize output and minimize time working.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Employment by Industry Sector in the U.S. (Visualization)]]></title><description><![CDATA[Here’s a data visualization I made of nonfarm employment in the U.S. by industry sector. You can click on any box to zoom in. The data was…]]></description><link>https://www.jeremyabroad.com/employment-visualized/</link><guid isPermaLink="false">https://www.jeremyabroad.com/employment-visualized/</guid><pubDate>Sun, 13 Mar 2016 12:51:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://www.jbernier.com/projects/labor_viz&quot;&gt;Here’s a data visualization I made&lt;/a&gt; of nonfarm employment in the U.S. by industry sector. You can click on any box to zoom in. The data was sourced from the &lt;a href=&quot;http://www.bls.gov/web/empsit/ceseeb1a.htm&quot;&gt;BLS&lt;/a&gt; and is from January 2016. &lt;/p&gt;
+&lt;p&gt;Pay attention to your rate of productivity. It is extremely variable. Optimize to maximize output and minimize time working.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Adam Grant - Originals (summary)]]></title><description><![CDATA[Recently listened to an interesting interview of Adam Grant (via James Altucher’s podcast) where he talked about his research in his book…]]></description><link>https://www.jeremyabroad.com/adam-grant-originals/</link><guid isPermaLink="false">https://www.jeremyabroad.com/adam-grant-originals/</guid><pubDate>Mon, 04 Apr 2016 12:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Recently listened to an &lt;a href=&quot;http://www.jamesaltucher.com/2016/02/adam-grant/&quot;&gt;interesting interview of Adam Grant&lt;/a&gt; (via James Altucher’s podcast) where he talked about his research in his book “Originals”. Adam Grant is the youngest tenured and most highly rated professor at the Wharton School.&lt;/p&gt;
+&lt;p&gt;Key takeaways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Seeking criticism, questioning assumptions, and willingness to change beliefs when presented with countering evidence is vital (political correctness and hivemind thinking run completely counter to this)&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Procrastination leads to more creative/original ideas (up to a point).&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A study was done where participants were given an assignment and one group was forced to play Minesweeper for 5 minutes immediately after being assigned the task. That group was most creative. The group forced to play Minesweeper for 5 minutes before given the assignment did not perform any better.&lt;/li&gt;
+&lt;li&gt;This can be attributed to your brain unconsciously processing information in the background of your mind. It’s just like how information is often retained better when you learn it right before sleeping.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;People who keep their day jobs while trying to start a business are 33% less likely to fail&lt;/li&gt;
+&lt;li&gt;First mover advantage isn’t reflected in statistics. 47% of first-movers fail, compared to 8% of late entrants.&lt;/li&gt;
+&lt;li&gt;A wide breadth of knowledge is more conducive to coming up with original ideas than depth. Innovation often comes from applying something from one field to a totally different field.&lt;/li&gt;
+&lt;li&gt;Depth of knowledge gives one good intuition within one’s own field, but does not apply well outside that field (eg. Steve Jobs championing the segway)&lt;/li&gt;
+&lt;li&gt;Don’t be afraid of failure. Volume of ideas/attempts is critical. You can fail by trying and failing or not trying at all. Given that most regrets are from inaction, it makes more sense to be the former.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;As a society, we’re most definitely not optimizing for creative and original thinking. We place so much value on conformity and robot-like depth of knowledge that we shun those who may be most likely to offer the most innovative ideas and solutions.&lt;/p&gt;
+&lt;p&gt;For example, schools and companies tend to reward the most risk-averse and conformist indoctrinated individuals while punishing the rest. This leads to a very one-dimensional labor force, unable to think outside the confines of their own boundaries.&lt;/p&gt;
+&lt;p&gt;This is largely due to the increased competition and cutthroat nature of education/labor markets.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Employment by Industry Sector in the U.S. (Visualization)]]></title><description><![CDATA[Here’s a data visualization I made of nonfarm employment in the U.S. by industry sector. You can click on any box to zoom in. The data was…]]></description><link>https://www.jeremyabroad.com/employment-visualized/</link><guid isPermaLink="false">https://www.jeremyabroad.com/employment-visualized/</guid><pubDate>Sun, 13 Mar 2016 12:51:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://www.jbernier.com/projects/labor_viz&quot;&gt;Here’s a data visualization I made&lt;/a&gt; of nonfarm employment in the U.S. by industry sector. You can click on any box to zoom in. The data was sourced from the &lt;a href=&quot;http://www.bls.gov/web/empsit/ceseeb1a.htm&quot;&gt;BLS&lt;/a&gt; and is from January 2016. &lt;/p&gt;
 &lt;p&gt;This is a very rough first draft that I will be expanding upon, but figured I’d upload what I’ve done so far.&lt;/p&gt;
 &lt;p&gt;The chart itself was made with D3.js.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[9-5 Office jobs are inefficient. Employees would be more productive if granted more freedom]]></title><description><![CDATA[Forcing employees to be in an office from 9-5 is incredibly inefficient for both employees and employers, and results in an extraordinary…]]></description><link>https://www.jeremyabroad.com/9-5-jobs/</link><guid isPermaLink="false">https://www.jeremyabroad.com/9-5-jobs/</guid><pubDate>Thu, 10 Mar 2016 12:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Forcing employees to be in an office from 9-5 is incredibly inefficient for both employees and employers, and results in an extraordinary amount of wasted time. Allowing employees the flexibility to work on their own schedule would increase output, increase efficiency, and make employees happier. It’s win-win.&lt;/p&gt;
 &lt;p&gt;The whole “work X hours/day” idea is a relic of a former era where “hours worked” was a decent measure of output for most jobs, which tended to be more of the mindless clock-in/clock-out type work (eg. working on an assembly line, receptionist, retail). But for any job where the work is predominantly mental rather than manual, mechanical, or shift-based, “hours worked” is a horrible proxy for output. Unfortunately workplace culture hasn’t adapted to accommodate the evolving nature of work.&lt;/p&gt;
@@ -2726,7 +2726,7 @@ scene.add(mesh);&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;Now you actually have a bit of freedom in the courses you pick and can schedule them at any time you want! Feels like heaven compared to high school! But in reality, college still sucks (at least the learning aspect).&lt;/p&gt;
 &lt;p&gt;You’re still forced to take pointless classes, sit through boring lectures (the professor is an attention whore who grades you on your attendance to his stupid lectures that you stopped going to because they weren’t helpful), spend hours completing dumb assignments and memorizing trivia questions for the exam, etc. You need to carefully plan your classes so that they are easy enough to get an A, yet rigorous-sounding enough to where you’d be taken seriously if a grad school or an employer were to audit your transcripts. Everyone pretends to care about their classes to look intelligent and fit in, but in reality nobody really cares because school does a great job of turning students off to education.&lt;/p&gt;
 &lt;p&gt;In the past the degree was enough to get a job. Then employers started realizing that college graduates were useless, and so they demanded that graduates have a summer internship prior to graduation. And now to even land that coveted summer internship before you senior year, you need prior internship experience. So you’re basically expected to intern every summer after freshman year.&lt;/p&gt;
-&lt;p&gt;And now you have to go into &lt;a href=&quot;/student-loans-tax-middle-class&quot;&gt;six figures of debt&lt;/a&gt; to get a college education at a public school. That includes the cost to pay for $500 textbooks that are so expensive despite the fact that the information is 100+ years old because the textbook companies rearrange the chapters every year and call it a new edition.&lt;/p&gt;
+&lt;p&gt;And now you have to go into &lt;a href=&quot;/gatsby-starter-blog/student-loans-tax-middle-class&quot;&gt;six figures of debt&lt;/a&gt; to get a college education at a public school. That includes the cost to pay for $500 textbooks that are so expensive despite the fact that the information is 100+ years old because the textbook companies rearrange the chapters every year and call it a new edition.&lt;/p&gt;
 &lt;h3&gt;Post-Graduation&lt;/h3&gt;
 &lt;p&gt;One of the following:&lt;/p&gt;
 &lt;ul&gt;
@@ -2790,7 +2790,7 @@ scene.add(mesh);&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;But I’m one of the lucky ones. I have a job and make decent money. Most college graduates aren’t making as much, if they’re even able to find jobs in the first place. And the problem is only going to get worse because colleges aren’t adapting to the workforce and technology is automating jobs away.&lt;/p&gt;
 &lt;h3&gt;Generation of Indentured Servants&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&quot;http://research.stlouisfed.org/fred2/series/MEHOINUSA672N&quot;&gt;Household income adjusted for inflation has declined ~8.8% since 1999&lt;/a&gt;, and it’s around the same level as it was 20 years ago. But if you factor in that 10–50% of our salaries (“our” being those of us born to lower/middle class parents) are going to student loan payments, &lt;strong&gt;we’re making 10–50% less than what income statistics report.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;I think there’s a fundamental problem with the system. &lt;a href=&quot;/school-crime-humanity&quot;&gt;The university itself is outdated and largely a waste of time for most people&lt;/a&gt;, yet we’re still forced to go and pay for it because employers demand it. Until employers stop demanding degrees (or entrepreneurialism becomes easily accessible to all — highly unlikely), that’s not going to change.&lt;/p&gt;
+&lt;p&gt;I think there’s a fundamental problem with the system. &lt;a href=&quot;/gatsby-starter-blog/school-crime-humanity&quot;&gt;The university itself is outdated and largely a waste of time for most people&lt;/a&gt;, yet we’re still forced to go and pay for it because employers demand it. Until employers stop demanding degrees (or entrepreneurialism becomes easily accessible to all — highly unlikely), that’s not going to change.&lt;/p&gt;
 &lt;h3&gt;How can we start fixing this?&lt;/h3&gt;
 &lt;p&gt;Now, anyone can complain about a problem, but the more difficult part is coming up with a solution.&lt;/p&gt;
 &lt;p&gt;Ultimately the entire system as it is is unsustainable and needs to change. But that’s a topic for another post.&lt;/p&gt;
@@ -2850,7 +2850,7 @@ for (var i=0; i &amp;lt; list.length; i++) {
   if ($(list[i]).find(&amp;#39;.FollowStatus&amp;#39;).length &amp;lt;= 0) {
     $(list[i]).find(&amp;#39;.user-actions-follow-button.js-follow-btn.follow-button.btn.small.small-follow-btn&amp;#39;).click();
   }
-}&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Why Remote Work is the Future]]></title><description><![CDATA[Dilbert ComicRemote work is becoming more and more mainstream as companies are realizing that chaining their employees to a desk in front of…]]></description><link>https://www.jeremyabroad.com/remote-work/</link><guid isPermaLink="false">https://www.jeremyabroad.com/remote-work/</guid><pubDate>Tue, 04 Nov 2014 12:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;/dilbert.20882.strip-00b91f5384bf4b90406fabdaba3f02a1.gif&quot; alt=&quot;Dilbert Comic&quot;&gt;&lt;/p&gt;
+}&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Why Remote Work is the Future]]></title><description><![CDATA[Dilbert ComicRemote work is becoming more and more mainstream as companies are realizing that chaining their employees to a desk in front of…]]></description><link>https://www.jeremyabroad.com/remote-work/</link><guid isPermaLink="false">https://www.jeremyabroad.com/remote-work/</guid><pubDate>Tue, 04 Nov 2014 12:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;/gatsby-starter-blog/dilbert.20882.strip-00b91f5384bf4b90406fabdaba3f02a1.gif&quot; alt=&quot;Dilbert Comic&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Remote work is becoming more and more mainstream as companies are realizing that chaining their employees to a desk in front of a laptop for 8+ hours/day in fields that are intellectual in nature, as opposed to value being time-oriented (eg. manufacturing and menial minimum wage jobs), may not be the most productive.&lt;/p&gt;
 &lt;p&gt;Companies like GitHub, Automattic (makers of WordPress), Mozilla, 37Signals, Canonical, and Buffer are already proving that 100% remote teams can be just as effective, if not more so, than traditional workplaces. Remote job boards are springing up as startups attempt to gain a foothold on the trend.&lt;/p&gt;
 &lt;p&gt;But despite the rising prevalence of remote work, most employees still look at remote work with disdain, something relegated to outsourcing cheap Indians.&lt;/p&gt;
