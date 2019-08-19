@@ -26,24 +26,34 @@ workbox.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-3eadf54042aeea860f72.js"
+    "url": "webpack-runtime-364c07259d1a4105b25e.js"
   },
   {
-    "url": "app-ca04ae849eda53a0b376.js"
+    "url": "styles.1fd1ae1ab795b7c90eb5.css"
   },
   {
-    "url": "component---node-modules-gatsby-plugin-offline-app-shell-js-cfefc0f268629ce2e48d.js"
+    "url": "styles-4f87c224390747b05fce.js"
+  },
+  {
+    "url": "app-9f716dfa78c082059e3c.js"
+  },
+  {
+    "url": "component---node-modules-gatsby-plugin-offline-app-shell-js-8d9805e769b9ee7065a9.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "84f76bdfb9d3b62ef7ebff359f853ab8"
+    "revision": "3a93627d28edb9637370a0edad8655a2"
   },
   {
-    "url": "component---src-pages-404-js-7e5292e5037d547359cf.js"
+    "url": "component---src-pages-404-js-ed2c9bde64302b02fdeb.js"
   },
   {
     "url": "page-data/404.html/page-data.json",
-    "revision": "f4aca05c170e50cd304ab25311ab8f55"
+    "revision": "932ec8f53fe4d7c4d639085dff75bcc9"
+  },
+  {
+    "url": "page-data/offline-plugin-app-shell-fallback/page-data.json",
+    "revision": "a398a719f7f2d04e3b08a40622dccc3e"
   },
   {
     "url": "manifest.webmanifest",
@@ -69,7 +79,7 @@ const navigationRoute = new workbox.routing.NavigationRoute(({ event }) => {
   return idbKeyval.get(WHITELIST_KEY).then((customWhitelist = []) => {
     // Respond with the offline shell if we match the custom whitelist
     if (customWhitelist.includes(pathname)) {
-      const offlineShell = `/offline-plugin-app-shell-fallback/index.html`
+      const offlineShell = `/gatsby-starter-blog/offline-plugin-app-shell-fallback/index.html`
       const cacheName = workbox.core.cacheNames.precache
 
       return caches.match(offlineShell, { cacheName }).then(cachedResponse => {
@@ -141,7 +151,7 @@ const messageApi = {
 
     pathnames = pathnames.map(({ pathname, includesPrefix }) => {
       if (!includesPrefix) {
-        return `${pathname}`
+        return `/gatsby-starter-blog${pathname}`
       } else {
         return pathname
       }
